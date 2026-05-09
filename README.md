@@ -45,4 +45,16 @@ Disconnected data prevents CRM and product teams from identifying high-value cus
 
 >**Enterprise CRM systems commonly experience duplicate rates between 10–30%, significantly impacting downstream analytics, campaign targeting, and business decision-making.
 
+## Solution Overview
 
+This project builds a production-structured Customer360 analytics pipeline that:
+
+**1. Resolves customer identity — merges duplicate customer records across multiple channels into unified golden profiles using deterministic and fuzzy matching techniques
+
+**2. Engineers customer KPIs — computes RFM (Recency, Frequency, Monetary) scores, customer lifetime indicators, churn risk flags, and engagement metrics at the unified customer level
+
+**3. Segments customers — groups unified customers into 5 actionable business segments using both rule-based RFM scoring and K-Means clustering
+
+**4. Delivers business insights — surfaces analytical findings through an interactive Tableau dashboard connected to a MySQL analytical layer
+
+>**The solution mirrors real-world customer analytics workflows used in enterprise consulting and data-driven marketing organizations.
