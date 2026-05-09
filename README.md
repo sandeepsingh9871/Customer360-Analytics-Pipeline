@@ -37,7 +37,7 @@ This fragmentation creates three major business challenges:
 **1. Inflated Customer Counts
 Duplicate customer records lead to repeated marketing communication, increased acquisition costs, and poor customer experience.
 
-**3. Incomplete Customer Profiles
+**2. Incomplete Customer Profiles
 Without a unified Customer360 view, organizations cannot accurately measure customer lifetime value, purchase behaviour, engagement patterns, or churn risk.
 
 **3. Limited Personalization & Segmentation
