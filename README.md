@@ -18,7 +18,7 @@
 
 > 📊 **[View on Tableau Public → add your link here(Error occured. Will upload soon)(Uploaded Tableau File]**
 
-![Dashboard Preview](<img width="1307" height="972" alt="{7714A801-84EC-4881-BD37-36EFC9E2C254}" src="https://github.com/user-attachments/assets/c2457bb6-ebff-490b-9a46-f483b38fe27f" />)
+[Dashboard Preview](<img width="1307" height="972" alt="{7714A801-84EC-4881-BD37-36EFC9E2C254}" src="https://github.com/user-attachments/assets/c2457bb6-ebff-490b-9a46-f483b38fe27f" />)
 
 ---
 
@@ -318,9 +318,9 @@ SELECT
 FROM customer_kpis;
 ```
 
-```output
+output
 <img width="895" height="502" alt="{B0895CB6-8887-4875-B1A1-5FF79B1347A7}" src="https://github.com/user-attachments/assets/882748c7-440b-4cd3-b577-247b2adcb366" />
-```
+
 
 ---
 
@@ -339,9 +339,9 @@ GROUP BY segment
 ORDER BY avg_cltv DESC;
 ```
 
-```output
+output
 <img width="918" height="572" alt="{308A62C1-CDE7-43BD-B221-E2572880251A}" src="https://github.com/user-attachments/assets/71d11853-bcdf-4604-8c29-921f72098fd5" />
-```
+
 
 ---
 
@@ -362,9 +362,9 @@ ORDER BY cltv DESC
 LIMIT 100;
 ```
 
-```output
+output
 <img width="1219" height="607" alt="{9C837C63-0A1C-4E1E-A9B7-FAD6FE367A20}" src="https://github.com/user-attachments/assets/82a2980b-f46e-412e-9d71-337175deef99" />
-```
+
 
 ---
 
@@ -391,9 +391,9 @@ FROM revenue_ranked
 WHERE rank_num <= 200;
 ```
 
-```output
+output
 <img width="811" height="753" alt="{1E4C8766-6D75-4C1F-BD17-5E528B92699D}" src="https://github.com/user-attachments/assets/a01ef38e-95a9-4630-a176-07ed3c581252" />
-```
+
 
 ---
 
@@ -422,9 +422,9 @@ SELECT
 FROM churn_summary cs
 ORDER BY total_cltv_at_risk DESC;
 ```
-```output
+output
 <img width="965" height="715" alt="{05408D3D-0A0B-449F-85F4-5DCFB13F965F}" src="https://github.com/user-attachments/assets/a3a1cee9-c708-4dad-9fd2-5aaed23abb34" />
-```
+
 ---
 
 ### Cohort retention heatmap — CTE + partition window
@@ -452,9 +452,10 @@ SELECT
 FROM cohort_counts
 ORDER BY signup_month, last_active_month;
 ```
-```output
+
+output
 <img width="858" height="771" alt="{AF089BA6-609F-4BC8-81C6-B1D8CC3782FE}" src="https://github.com/user-attachments/assets/8c34bdc7-9062-4f1b-bd01-05324788c79b" />
-```
+
 ---
 
 ### Cross-sell funnel
@@ -481,9 +482,10 @@ SELECT stage, customers, avg_cltv,
              FIRST_VALUE(customers) OVER (ORDER BY stage_order), 2) AS funnel_pct
 FROM funnel ORDER BY stage_order;
 ```
-```output
+
+output
 <img width="848" height="769" alt="{076EC57F-8CD2-40E0-9657-AB8947AC4412}" src="https://github.com/user-attachments/assets/f77170f1-02dc-48e5-8e95-8219440e5a30" />
-```
+
 ---
 
 ### Stored procedure — dynamic churn recalculation
