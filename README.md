@@ -129,7 +129,7 @@ customer360-analytics-pipeline/
 
 ## 5. Dataset
 
-**Customer360Insights.csv** — [Kaggle](https://www.kaggle.com/code/davedarshan/synthetic-saga-the-art-of-crafting-customer360in)
+**Customer360Insights.csv** — [Kaggle]((https://www.kaggle.com/datasets/davedarshan/customer360insights))
 
 | Property | Value |
 |----------|-------|
@@ -409,7 +409,7 @@ ORDER BY total_cltv_at_risk DESC;
 
 ---
 
-### Cohort retention heatmap — CTE + partition window (Amex loyalty use case)
+### Cohort retention heatmap — CTE + partition window
 
 ```sql
 WITH monthly_activity AS (
@@ -437,7 +437,7 @@ ORDER BY signup_month, last_active_month;
 
 ---
 
-### Cross-sell funnel — Amex upsell pipeline
+### Cross-sell funnel
 
 ```sql
 WITH funnel AS (
