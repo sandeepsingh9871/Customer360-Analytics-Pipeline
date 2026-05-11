@@ -559,9 +559,9 @@ The retention heatmap identifies which acquisition cohorts retain longest — 20
 - Custom tooltips on each chart showing segment, CLTV, and CRM action recommendation
 
 ---
-```Tableau Dashboard
+Tableau Dashboard
 <img width="1291" height="969" alt="{E241A7CB-8882-442D-B4C6-C13A6CCA74BE}" src="https://github.com/user-attachments/assets/3e46fea9-b20d-4268-9d83-86a8e10e69a2" />
-```
+
 
 ## 11. How to Run
 
