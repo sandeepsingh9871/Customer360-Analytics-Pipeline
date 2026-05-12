@@ -1,0 +1,1198 @@
+customer_id,segment,recency_days,frequency,monetary,cltv,R_score,F_score,M_score,RFM_score,churn_risk,channel,country,crm_action
+1001,At-Risk,373,2,272,107.39,4,3,3,433,0,Social,China,Win-back campaign within 7 days
+1002,At-Risk,95,2,1080,426.38,5,3,4,534,0,Search,China,Win-back campaign within 7 days
+1003,Lost,1822,1,40,15.84,1,1,1,111,1,Social,UK,Suppress — flag for quarterly review
+1004,At-Risk,522,2,2040,805.39,4,3,5,435,0,Social,UK,Win-back campaign within 7 days
+1005,Lost,1821,1,600,237.6,1,1,4,114,1,Offline,China,Suppress — flag for quarterly review
+1006,Promising,437,3,249,98.6,4,5,3,453,0,Social,India,Cross-sell — travel rewards / premium product
+1007,Lost,1818,1,500,198.0,1,1,4,114,1,Search,UK,Suppress — flag for quarterly review
+1008,At-Risk,413,2,1605,635.58,4,3,4,434,0,Social,India,Win-back campaign within 7 days
+1009,Champions,616,2,7580,3001.68,3,3,5,335,0,Offline,Spain,Referral program + premium card upsell
+1010,Lost,1816,1,1600,633.6,1,1,4,114,1,Search,UK,Suppress — flag for quarterly review
+1011,At-Risk,119,2,170,67.52,5,3,2,532,0,Offline,USA,Win-back campaign within 7 days
+1012,Lost,1811,1,54,21.51,1,1,1,111,1,Social,China,Suppress — flag for quarterly review
+1013,Promising,68,3,308,122.46,5,5,3,553,0,Offline,Japan,Cross-sell — travel rewards / premium product
+1014,Promising,164,4,1120,445.54,5,5,4,554,0,Social,Australia,Cross-sell — travel rewards / premium product
+1015,At-Risk,21,2,1270,505.97,5,3,4,534,0,Offline,China,Win-back campaign within 7 days
+1016,Lost,1807,1,540,215.14,1,1,4,114,1,Other,China,Suppress — flag for quarterly review
+1017,Lost,1806,1,1600,637.44,1,1,4,114,1,Social,China,Suppress — flag for quarterly review
+1018,Lost,1805,1,72,28.68,1,1,1,111,1,Other,India,Suppress — flag for quarterly review
+1019,At-Risk,140,2,980,391.61,5,3,4,534,0,Other,Italy,Win-back campaign within 7 days
+1020,Lost,1803,1,100,39.84,1,1,1,111,1,Social,USA,Suppress — flag for quarterly review
+1021,At-Risk,91,2,1725,689.31,5,3,4,534,0,Social,Italy,Win-back campaign within 7 days
+1022,At-Risk,34,2,300,119.88,5,3,3,533,0,Social,UK,Win-back campaign within 7 days
+1023,At-Risk,317,2,190,76.15,4,3,2,432,0,Social,USA,Win-back campaign within 7 days
+1024,Lost,1797,1,500,200.4,1,1,4,114,1,Other,China,Suppress — flag for quarterly review
+1025,Promising,295,3,165,66.13,4,5,2,452,0,Social,Japan,Cross-sell — travel rewards / premium product
+1026,Lost,1793,1,300,120.24,1,1,3,113,1,Search,China,Suppress — flag for quarterly review
+1027,Promising,48,3,1990,799.18,5,5,4,554,0,Social,China,Cross-sell — travel rewards / premium product
+1028,Lost,1791,1,4800,1935.36,1,1,5,115,1,Search,UK,Suppress — flag for quarterly review
+1029,Lost,1790,1,180,72.58,1,1,2,112,1,Social,USA,Suppress — flag for quarterly review
+1030,At-Risk,670,2,395,158.79,3,3,3,333,0,Other,UK,Win-back campaign within 7 days
+1031,At-Risk,340,2,325,130.65,4,3,3,433,0,Offline,China,Win-back campaign within 7 days
+1032,Champions,23,3,6190,2490.85,5,5,5,555,0,Search,Canada,Referral program + premium card upsell
+1033,Lost,1788,1,140,56.45,1,1,2,112,1,Offline,Canada,Suppress — flag for quarterly review
+1034,Lost,1788,1,270,108.86,1,1,3,113,1,Social,Spain,Suppress — flag for quarterly review
+1035,Promising,52,3,4435,1788.19,5,5,5,555,0,Search,Spain,Cross-sell — travel rewards / premium product
+1036,Lost,1785,1,100,40.32,1,1,1,111,1,Social,India,Suppress — flag for quarterly review
+1037,At-Risk,74,2,2540,1024.13,5,3,5,535,0,Social,Japan,Win-back campaign within 7 days
+1038,At-Risk,130,2,175,70.56,5,3,2,532,0,Social,Canada,Win-back campaign within 7 days
+1039,At-Risk,582,2,180,72.58,3,3,2,332,0,Offline,Spain,Win-back campaign within 7 days
+1040,At-Risk,237,2,3100,1253.64,5,3,5,535,0,Social,UK,Win-back campaign within 7 days
+1041,At-Risk,728,2,102,41.25,3,3,2,332,0,Search,India,Win-back campaign within 7 days
+1042,Lost,1779,1,360,146.02,1,1,3,113,1,Social,Spain,Suppress — flag for quarterly review
+1043,Lost,1779,1,2400,973.44,1,1,5,115,1,Offline,China,Suppress — flag for quarterly review
+1044,Lost,1776,1,40,16.22,1,1,1,111,1,Other,India,Suppress — flag for quarterly review
+1045,At-Risk,559,2,255,103.43,3,3,3,333,0,Other,India,Win-back campaign within 7 days
+1046,Champions,1773,1,9000,3650.4,1,1,5,115,1,Social,Spain,Referral program + premium card upsell
+1047,At-Risk,188,2,70,28.39,5,3,1,531,0,Search,China,Win-back campaign within 7 days
+1048,Lost,1773,1,280,113.57,1,1,3,113,1,Social,Japan,Suppress — flag for quarterly review
+1049,Lost,1771,1,800,324.48,1,1,4,114,1,Search,Spain,Suppress — flag for quarterly review
+1050,At-Risk,78,2,360,146.45,5,3,3,533,0,Other,Australia,Win-back campaign within 7 days
+1051,At-Risk,108,2,2550,1037.34,5,3,5,535,0,Social,India,Win-back campaign within 7 days
+1052,Lost,1769,1,100,40.8,1,1,1,111,1,Social,Canada,Suppress — flag for quarterly review
+1053,Lost,1769,1,75,30.6,1,1,1,111,1,Social,USA,Suppress — flag for quarterly review
+1054,Promising,82,4,555,225.77,5,5,4,554,0,Other,Australia,Cross-sell — travel rewards / premium product
+1055,Lost,1767,1,2400,979.2,1,1,5,115,1,Social,Australia,Suppress — flag for quarterly review
+1056,Lost,1765,1,100,40.8,1,1,1,111,1,Social,UK,Suppress — flag for quarterly review
+1057,Lost,1764,1,90,36.72,1,1,1,111,1,Search,Canada,Suppress — flag for quarterly review
+1058,Lost,1764,1,75,30.6,1,1,1,111,1,Offline,Italy,Suppress — flag for quarterly review
+1059,Promising,239,3,548,224.03,4,5,4,454,0,Social,China,Cross-sell — travel rewards / premium product
+1060,At-Risk,282,2,3070,1256.24,4,3,5,435,0,Social,Italy,Win-back campaign within 7 days
+1061,Champions,705,2,7200,2946.24,3,3,5,335,0,Search,Canada,Referral program + premium card upsell
+1062,Lost,1761,1,40,16.32,1,1,1,111,1,Social,Spain,Suppress — flag for quarterly review
+1063,Lost,1759,1,140,57.46,1,1,2,112,1,Social,Australia,Suppress — flag for quarterly review
+1064,At-Risk,727,2,580,237.34,3,3,4,334,0,Offline,Australia,Win-back campaign within 7 days
+1065,Lost,1757,1,140,57.46,1,1,2,112,1,Search,Japan,Suppress — flag for quarterly review
+1066,Lost,1755,1,400,164.16,1,1,3,113,1,Search,Japan,Suppress — flag for quarterly review
+1067,Lost,1754,1,140,57.46,1,1,2,112,1,Search,Japan,Suppress — flag for quarterly review
+1068,At-Risk,132,2,2416,991.53,5,3,5,535,0,Offline,China,Win-back campaign within 7 days
+1069,Lost,1753,1,108,44.32,1,1,2,112,1,Social,India,Suppress — flag for quarterly review
+1070,Lost,1752,1,210,86.18,1,1,2,112,1,Offline,India,Suppress — flag for quarterly review
+1071,Promising,468,3,1725,710.7,4,5,4,454,0,Social,Japan,Cross-sell — travel rewards / premium product
+1072,Promising,301,3,1890,778.68,4,5,4,454,0,Other,India,Cross-sell — travel rewards / premium product
+1073,At-Risk,416,2,2518,1036.41,4,3,5,435,0,Social,Italy,Win-back campaign within 7 days
+1074,Lost,1747,1,70,28.9,1,1,1,111,1,Social,India,Suppress — flag for quarterly review
+1076,Lost,1746,1,35,14.45,1,1,1,111,1,Social,UK,Suppress — flag for quarterly review
+1077,At-Risk,676,2,80,33.02,3,3,1,331,0,Social,India,Win-back campaign within 7 days
+1078,At-Risk,311,2,228,94.12,4,3,2,432,0,Other,Australia,Win-back campaign within 7 days
+1079,Champions,632,3,9800,4045.44,3,5,5,355,0,Social,Spain,Referral program + premium card upsell
+1080,Lost,1745,1,25,10.32,1,1,1,111,1,Social,Canada,Suppress — flag for quarterly review
+1081,Champions,375,2,6100,2518.08,4,3,5,435,0,Search,USA,Referral program + premium card upsell
+1082,Champions,299,2,7340,3029.95,4,3,5,435,0,Other,UK,Referral program + premium card upsell
+1083,At-Risk,117,2,2400,990.72,5,3,5,535,0,Social,India,Win-back campaign within 7 days
+1084,At-Risk,87,2,3072,1268.12,5,3,5,535,0,Social,Spain,Win-back campaign within 7 days
+1085,Lost,1740,1,50,20.64,1,1,1,111,1,Social,USA,Suppress — flag for quarterly review
+1086,Champions,235,2,9150,3788.1,5,3,5,535,0,Other,India,Referral program + premium card upsell
+1087,At-Risk,264,2,230,95.22,4,3,3,433,0,Social,Italy,Win-back campaign within 7 days
+1088,Lost,1738,1,100,41.52,1,1,1,111,1,Social,Australia,Suppress — flag for quarterly review
+1089,At-Risk,145,2,480,198.72,5,3,4,534,0,Search,China,Win-back campaign within 7 days
+1090,Lost,1737,1,90,37.37,1,1,1,111,1,Social,USA,Suppress — flag for quarterly review
+1091,Lost,1736,1,420,174.38,1,1,3,113,1,Social,India,Suppress — flag for quarterly review
+1092,Lost,1735,1,150,62.28,1,1,2,112,1,Social,India,Suppress — flag for quarterly review
+1093,At-Risk,448,2,310,128.71,4,3,3,433,0,Social,India,Win-back campaign within 7 days
+1094,Lost,1735,1,40,16.61,1,1,1,111,1,Social,Italy,Suppress — flag for quarterly review
+1095,At-Risk,548,2,495,205.52,3,3,4,334,0,Social,China,Win-back campaign within 7 days
+1096,Lost,1733,1,800,332.16,1,1,4,114,1,Social,USA,Suppress — flag for quarterly review
+1097,Lost,1733,1,30,12.46,1,1,1,111,1,Search,India,Suppress — flag for quarterly review
+1098,Lost,1732,1,160,66.43,1,1,2,112,1,Social,India,Suppress — flag for quarterly review
+1099,At-Risk,398,2,410,170.72,4,3,3,433,0,Other,Italy,Win-back campaign within 7 days
+1100,At-Risk,228,2,510,212.36,5,3,4,534,0,Social,USA,Win-back campaign within 7 days
+1101,At-Risk,166,2,52,21.65,5,3,1,531,0,Social,UK,Win-back campaign within 7 days
+1102,At-Risk,293,2,445,185.3,4,3,3,433,0,Social,India,Win-back campaign within 7 days
+1103,Lost,1727,1,75,31.32,1,1,1,111,1,Social,China,Suppress — flag for quarterly review
+1104,Lost,1725,1,500,208.8,1,1,4,114,1,Social,Australia,Suppress — flag for quarterly review
+1105,Lost,1723,1,48,20.04,1,1,1,111,1,Offline,India,Suppress — flag for quarterly review
+1106,At-Risk,147,2,310,129.46,5,3,3,533,0,Social,Canada,Win-back campaign within 7 days
+1107,Lost,1722,1,4500,1879.2,1,1,5,115,1,Offline,China,Suppress — flag for quarterly review
+1108,Promising,13,3,563,235.56,5,5,4,554,0,Search,Australia,Cross-sell — travel rewards / premium product
+1109,Lost,1721,1,15,6.26,1,1,1,111,1,Offline,Canada,Suppress — flag for quarterly review
+1110,Promising,358,3,705,294.97,4,5,4,454,0,Social,Australia,Cross-sell — travel rewards / premium product
+1111,Champions,438,2,6600,2764.08,4,3,5,435,0,Social,Spain,Referral program + premium card upsell
+1112,Lost,1720,1,400,167.04,1,1,3,113,1,Social,Australia,Suppress — flag for quarterly review
+1113,Lost,1719,1,240,100.8,1,1,3,113,1,Other,Japan,Suppress — flag for quarterly review
+1114,Champions,137,3,7555,3167.05,5,5,5,555,0,Search,Canada,Referral program + premium card upsell
+1115,Lost,1719,1,50,21.0,1,1,1,111,1,Search,UK,Suppress — flag for quarterly review
+1116,At-Risk,628,2,2015,843.88,3,3,4,334,0,Offline,Italy,Win-back campaign within 7 days
+1117,Lost,1719,1,150,63.0,1,1,2,112,1,Social,USA,Suppress — flag for quarterly review
+1118,Lost,1717,1,150,63.0,1,1,2,112,1,Offline,Australia,Suppress — flag for quarterly review
+1119,Lost,1715,1,90,37.8,1,1,1,111,1,Social,UK,Suppress — flag for quarterly review
+1120,Lost,1713,1,160,67.2,1,1,2,112,1,Social,USA,Suppress — flag for quarterly review
+1121,Champions,113,2,9140,3838.8,5,3,5,535,0,Offline,USA,Referral program + premium card upsell
+1122,Promising,460,3,372,156.54,4,5,3,453,0,Social,USA,Cross-sell — travel rewards / premium product
+1123,Lost,1709,1,75,31.68,1,1,1,111,1,Offline,Italy,Suppress — flag for quarterly review
+1124,Lost,1709,1,1200,506.88,1,1,4,114,1,Search,Japan,Suppress — flag for quarterly review
+1125,Champions,55,3,4915,2072.16,5,5,5,555,0,Social,Australia,Referral program + premium card upsell
+1126,Lost,1707,1,60,25.34,1,1,1,111,1,Social,Canada,Suppress — flag for quarterly review
+1127,Champions,607,2,4960,2089.15,3,3,5,335,0,Other,USA,Referral program + premium card upsell
+1128,At-Risk,547,2,265,111.94,3,3,3,333,0,Search,Italy,Win-back campaign within 7 days
+1129,At-Risk,509,2,258,108.98,4,3,3,433,0,Social,China,Win-back campaign within 7 days
+1130,Champions,1705,1,7500,3168.0,1,1,5,115,1,Social,India,Referral program + premium card upsell
+1131,At-Risk,457,2,552,233.83,4,3,4,434,0,Other,Canada,Win-back campaign within 7 days
+1132,Promising,589,3,2670,1132.08,3,5,5,355,0,Offline,Australia,Cross-sell — travel rewards / premium product
+1133,Lost,1698,1,175,74.34,1,1,2,112,1,Social,Canada,Suppress — flag for quarterly review
+1134,Champions,271,2,4740,2013.55,4,3,5,435,0,Other,Spain,Referral program + premium card upsell
+1135,At-Risk,346,2,165,70.09,4,3,2,432,0,Other,Spain,Win-back campaign within 7 days
+1136,At-Risk,80,2,580,246.38,5,3,4,534,0,Social,Italy,Win-back campaign within 7 days
+1137,At-Risk,523,2,1590,675.43,4,3,4,434,0,Social,Canada,Win-back campaign within 7 days
+1138,Lost,1693,1,120,50.98,1,1,2,112,1,Social,Japan,Suppress — flag for quarterly review
+1139,Lost,1692,1,100,42.48,1,1,1,111,1,Offline,Japan,Suppress — flag for quarterly review
+1140,Lost,1689,1,150,64.08,1,1,2,112,1,Social,Spain,Suppress — flag for quarterly review
+1141,Lost,1689,1,15,6.41,1,1,1,111,1,Offline,Australia,Suppress — flag for quarterly review
+1142,At-Risk,435,2,102,43.45,4,3,2,432,0,Other,UK,Win-back campaign within 7 days
+1143,At-Risk,703,2,460,196.51,3,3,4,334,0,Offline,Australia,Win-back campaign within 7 days
+1144,Lost,1684,1,240,102.53,1,1,3,113,1,Other,UK,Suppress — flag for quarterly review
+1145,Lost,1684,1,80,34.18,1,1,1,111,1,Offline,India,Suppress — flag for quarterly review
+1146,Lost,1683,1,300,128.16,1,1,3,113,1,Social,China,Suppress — flag for quarterly review
+1147,Promising,246,3,350,149.8,4,5,3,453,0,Social,Japan,Cross-sell — travel rewards / premium product
+1148,Lost,1681,1,160,68.35,1,1,2,112,1,Offline,India,Suppress — flag for quarterly review
+1149,Champions,483,2,9150,3919.86,4,3,5,435,0,Social,Italy,Referral program + premium card upsell
+1150,At-Risk,623,2,2400,1031.04,3,3,5,335,0,Social,USA,Win-back campaign within 7 days
+1151,Lost,1676,1,250,107.4,1,1,3,113,1,Social,Japan,Suppress — flag for quarterly review
+1152,Lost,1676,1,105,45.11,1,1,2,112,1,Social,Japan,Suppress — flag for quarterly review
+1153,Lost,1675,1,32,13.75,1,1,1,111,1,Social,USA,Suppress — flag for quarterly review
+1154,Champions,1675,1,6000,2577.6,1,1,5,115,1,Social,China,Referral program + premium card upsell
+1155,Lost,1673,1,180,77.33,1,1,2,112,1,Social,Australia,Suppress — flag for quarterly review
+1156,Lost,1673,1,360,154.66,1,1,3,113,1,Social,Australia,Suppress — flag for quarterly review
+1157,Lost,1673,1,400,171.84,1,1,3,113,1,Social,India,Suppress — flag for quarterly review
+1158,Lost,1671,1,300,129.6,1,1,3,113,1,Social,China,Suppress — flag for quarterly review
+1159,Lost,1670,1,54,23.33,1,1,1,111,1,Offline,Spain,Suppress — flag for quarterly review
+1160,At-Risk,541,2,160,68.93,3,3,2,332,0,Social,UK,Win-back campaign within 7 days
+1161,Champions,684,2,7440,3214.08,3,3,5,335,0,Social,Canada,Referral program + premium card upsell
+1162,At-Risk,295,2,540,233.28,4,3,4,434,0,Social,India,Win-back campaign within 7 days
+1163,At-Risk,616,2,435,187.92,3,3,3,333,0,Social,India,Win-back campaign within 7 days
+1164,Lost,1666,1,2000,864.0,1,1,4,114,1,Search,Australia,Suppress — flag for quarterly review
+1165,Promising,236,3,229,99.11,5,5,2,552,0,Offline,Spain,Cross-sell — travel rewards / premium product
+1166,At-Risk,192,2,425,184.11,5,3,3,533,0,Offline,Italy,Win-back campaign within 7 days
+1167,Lost,1663,1,400,172.8,1,1,3,113,1,Search,Australia,Suppress — flag for quarterly review
+1168,Champions,323,2,6075,2631.69,4,3,5,435,0,Offline,China,Referral program + premium card upsell
+1169,Lost,1661,1,105,45.61,1,1,2,112,1,Search,Italy,Suppress — flag for quarterly review
+1170,At-Risk,348,2,350,151.62,4,3,3,433,0,Social,China,Win-back campaign within 7 days
+1171,Champions,128,4,9540,4138.45,5,5,5,555,0,Offline,USA,Referral program + premium card upsell
+1172,Lost,1659,1,75,32.58,1,1,1,111,1,Social,USA,Suppress — flag for quarterly review
+1173,Lost,1659,1,16,6.95,1,1,1,111,1,Search,UK,Suppress — flag for quarterly review
+1174,Lost,1658,1,120,52.13,1,1,2,112,1,Social,Spain,Suppress — flag for quarterly review
+1175,At-Risk,727,2,320,139.01,3,3,3,333,0,Search,Canada,Win-back campaign within 7 days
+1176,Champions,459,2,7240,3145.06,4,3,5,435,0,Other,USA,Referral program + premium card upsell
+1177,Lost,1656,1,24,10.43,1,1,1,111,1,Search,UK,Suppress — flag for quarterly review
+1178,Lost,1656,1,120,52.13,1,1,2,112,1,Social,Australia,Suppress — flag for quarterly review
+1179,Lost,1655,1,24,10.43,1,1,1,111,1,Search,China,Suppress — flag for quarterly review
+1180,Promising,108,3,2435,1059.72,5,5,5,555,0,Social,USA,Cross-sell — travel rewards / premium product
+1181,Lost,1653,1,45,19.55,1,1,1,111,1,Search,India,Suppress — flag for quarterly review
+1182,At-Risk,449,2,2535,1104.25,4,3,5,435,0,Other,Australia,Win-back campaign within 7 days
+1183,Lost,1653,1,210,91.22,1,1,2,112,1,Offline,China,Suppress — flag for quarterly review
+1184,Promising,460,3,530,231.51,4,5,4,454,0,Offline,USA,Cross-sell — travel rewards / premium product
+1185,Lost,1648,1,1500,655.2,1,1,4,114,1,Social,Italy,Suppress — flag for quarterly review
+1186,At-Risk,389,2,230,100.46,4,3,3,433,0,Social,Japan,Win-back campaign within 7 days
+1187,Lost,1646,1,120,52.42,1,1,2,112,1,Offline,Japan,Suppress — flag for quarterly review
+1188,Promising,43,3,440,192.9,5,5,3,553,0,Search,UK,Cross-sell — travel rewards / premium product
+1189,At-Risk,457,2,480,210.24,4,3,4,434,0,Search,China,Win-back campaign within 7 days
+1190,Lost,1642,1,450,197.64,1,1,3,113,1,Social,China,Suppress — flag for quarterly review
+1191,Lost,1642,1,1500,658.8,1,1,4,114,1,Offline,UK,Suppress — flag for quarterly review
+1192,Lost,1641,1,270,118.58,1,1,3,113,1,Social,Italy,Suppress — flag for quarterly review
+1193,Lost,1639,1,50,21.96,1,1,1,111,1,Social,China,Suppress — flag for quarterly review
+1194,At-Risk,208,2,425,187.17,5,3,3,533,0,Other,China,Win-back campaign within 7 days
+1195,Lost,1637,1,350,153.72,1,1,3,113,1,Social,China,Suppress — flag for quarterly review
+1196,Lost,1635,1,150,65.88,1,1,2,112,1,Other,Spain,Suppress — flag for quarterly review
+1197,At-Risk,21,2,2105,927.04,5,3,5,535,0,Social,Japan,Win-back campaign within 7 days
+1198,Promising,134,3,688,303.27,5,5,4,554,0,Offline,India,Cross-sell — travel rewards / premium product
+1199,Lost,1631,1,140,61.82,1,1,2,112,1,Other,USA,Suppress — flag for quarterly review
+1200,Lost,1631,1,300,132.48,1,1,3,113,1,Social,China,Suppress — flag for quarterly review
+1201,Lost,1630,1,75,33.12,1,1,1,111,1,Social,Australia,Suppress — flag for quarterly review
+1202,At-Risk,144,2,390,172.69,5,3,3,533,0,Social,Australia,Win-back campaign within 7 days
+1203,At-Risk,550,2,1650,730.62,3,3,4,334,0,Offline,Canada,Win-back campaign within 7 days
+1204,At-Risk,361,2,380,168.72,4,3,3,433,0,Offline,Canada,Win-back campaign within 7 days
+1205,Promising,618,4,3650,1622.79,3,5,5,355,0,Search,Spain,Cross-sell — travel rewards / premium product
+1206,At-Risk,539,2,145,64.38,3,3,2,332,0,Offline,Italy,Win-back campaign within 7 days
+1207,Lost,1619,1,32,14.21,1,1,1,111,1,Social,Japan,Suppress — flag for quarterly review
+1208,Lost,1619,1,420,186.48,1,1,3,113,1,Search,China,Suppress — flag for quarterly review
+1209,At-Risk,371,2,230,102.4,4,3,3,433,0,Social,China,Win-back campaign within 7 days
+1210,At-Risk,216,2,1725,767.97,5,3,4,534,0,Social,Spain,Win-back campaign within 7 days
+1211,Promising,146,3,3088,1373.54,5,5,5,555,0,Search,Spain,Cross-sell — travel rewards / premium product
+1212,Lost,1618,1,600,266.4,1,1,4,114,1,Social,China,Suppress — flag for quarterly review
+1213,Lost,1618,1,350,155.4,1,1,3,113,1,Search,Spain,Suppress — flag for quarterly review
+1214,Lost,1617,1,20,8.93,1,1,1,111,1,Search,India,Suppress — flag for quarterly review
+1215,Champions,31,2,4548,2024.77,5,3,5,535,0,Social,Japan,Referral program + premium card upsell
+1216,At-Risk,92,2,2610,1161.97,5,3,5,535,0,Social,Canada,Win-back campaign within 7 days
+1217,Champions,50,3,6850,3057.84,5,5,5,555,0,Social,USA,Referral program + premium card upsell
+1218,Lost,1614,1,2000,892.8,1,1,4,114,1,Social,UK,Suppress — flag for quarterly review
+1219,At-Risk,186,2,65,29.02,5,3,1,531,0,Social,USA,Win-back campaign within 7 days
+1220,At-Risk,289,2,248,111.0,4,3,3,433,0,Offline,USA,Win-back campaign within 7 days
+1221,At-Risk,370,2,435,194.71,4,3,3,433,0,Social,Canada,Win-back campaign within 7 days
+1222,Promising,211,3,920,411.43,5,5,4,554,0,Social,Spain,Cross-sell — travel rewards / premium product
+1223,At-Risk,0,2,240,107.42,5,3,3,533,0,Search,Canada,Win-back campaign within 7 days
+1224,Lost,1608,1,420,188.5,1,1,3,113,1,Social,UK,Suppress — flag for quarterly review
+1225,Lost,1605,1,175,78.54,1,1,2,112,1,Social,USA,Suppress — flag for quarterly review
+1226,Lost,1604,1,60,26.93,1,1,1,111,1,Offline,Canada,Suppress — flag for quarterly review
+1227,At-Risk,295,2,175,78.54,4,3,2,432,0,Other,UK,Win-back campaign within 7 days
+1228,At-Risk,495,2,518,233.1,4,3,4,434,0,Other,Italy,Win-back campaign within 7 days
+1229,At-Risk,219,2,450,202.5,5,3,3,533,0,Social,India,Win-back campaign within 7 days
+1230,At-Risk,432,2,240,108.0,4,3,3,433,0,Other,Australia,Win-back campaign within 7 days
+1231,Lost,1600,1,125,56.4,1,1,2,112,1,Other,Australia,Suppress — flag for quarterly review
+1232,Lost,1598,1,360,162.43,1,1,3,113,1,Other,UK,Suppress — flag for quarterly review
+1233,Lost,1598,1,280,126.34,1,1,3,113,1,Social,Spain,Suppress — flag for quarterly review
+1234,Lost,1596,1,1500,676.8,1,1,4,114,1,Social,India,Suppress — flag for quarterly review
+1235,Lost,1594,1,120,54.14,1,1,2,112,1,Search,India,Suppress — flag for quarterly review
+1236,Lost,1592,1,50,22.56,1,1,1,111,1,Other,Canada,Suppress — flag for quarterly review
+1237,Lost,1590,1,1000,453.6,1,1,4,114,1,Search,Japan,Suppress — flag for quarterly review
+1238,Champions,459,2,6210,2809.4,4,3,5,435,0,Social,China,Referral program + premium card upsell
+1239,Lost,1588,1,60,27.22,1,1,1,111,1,Social,Italy,Suppress — flag for quarterly review
+1240,Promising,218,3,1312,595.12,5,5,4,554,0,Social,USA,Cross-sell — travel rewards / premium product
+1241,At-Risk,234,2,700,317.52,5,3,4,534,0,Social,Australia,Win-back campaign within 7 days
+1242,Lost,1585,1,140,63.5,1,1,2,112,1,Other,Spain,Suppress — flag for quarterly review
+1243,At-Risk,725,2,2360,1073.33,3,3,5,335,0,Offline,UK,Win-back campaign within 7 days
+1244,At-Risk,257,2,3050,1387.14,4,3,5,435,0,Social,Australia,Win-back campaign within 7 days
+1245,Lost,1583,1,120,54.72,1,1,2,112,1,Social,Italy,Suppress — flag for quarterly review
+1246,Champions,563,2,7340,3338.23,3,3,5,335,0,Social,Canada,Referral program + premium card upsell
+1247,At-Risk,55,2,2140,973.27,5,3,5,535,0,Offline,Spain,Win-back campaign within 7 days
+1248,Lost,1582,1,8,3.65,1,1,1,111,1,Other,Italy,Suppress — flag for quarterly review
+1249,Lost,1581,1,320,145.92,1,1,3,113,1,Social,Canada,Suppress — flag for quarterly review
+1250,At-Risk,614,2,2300,1048.8,3,3,5,335,0,Social,Spain,Win-back campaign within 7 days
+1251,Lost,1577,1,150,68.4,1,1,2,112,1,Social,UK,Suppress — flag for quarterly review
+1252,Lost,1576,1,2400,1094.4,1,1,5,115,1,Offline,Canada,Suppress — flag for quarterly review
+1253,Champions,3,2,6900,3154.68,5,3,5,535,0,Social,Italy,Referral program + premium card upsell
+1254,Lost,1575,1,150,68.4,1,1,2,112,1,Search,Spain,Suppress — flag for quarterly review
+1255,At-Risk,219,2,608,277.98,5,3,4,534,0,Offline,Japan,Win-back campaign within 7 days
+1256,Lost,1573,1,300,137.52,1,1,3,113,1,Social,UK,Suppress — flag for quarterly review
+1257,Promising,200,3,1280,585.73,5,5,4,554,0,Social,India,Cross-sell — travel rewards / premium product
+1258,At-Risk,229,2,460,210.86,5,3,4,534,0,Social,Spain,Win-back campaign within 7 days
+1259,Lost,1571,1,60,27.5,1,1,1,111,1,Search,China,Suppress — flag for quarterly review
+1260,Lost,1571,1,3000,1375.2,1,1,5,115,1,Offline,Australia,Suppress — flag for quarterly review
+1261,At-Risk,328,2,480,220.03,4,3,4,434,0,Social,Italy,Win-back campaign within 7 days
+1262,Lost,1567,1,1500,687.6,1,1,4,114,1,Offline,China,Suppress — flag for quarterly review
+1263,Lost,1566,1,140,64.51,1,1,2,112,1,Search,Australia,Suppress — flag for quarterly review
+1264,Lost,1566,1,70,32.26,1,1,1,111,1,Social,Australia,Suppress — flag for quarterly review
+1265,Lost,1565,1,60,27.65,1,1,1,111,1,Social,Canada,Suppress — flag for quarterly review
+1266,At-Risk,123,2,158,72.81,5,3,2,532,0,Social,China,Win-back campaign within 7 days
+1267,At-Risk,93,2,168,77.41,5,3,2,532,0,Offline,Japan,Win-back campaign within 7 days
+1268,Lost,1562,1,35,16.13,1,1,1,111,1,Social,India,Suppress — flag for quarterly review
+1269,Lost,1562,1,36,16.59,1,1,1,111,1,Search,Canada,Suppress — flag for quarterly review
+1270,Lost,1559,1,24,11.06,1,1,1,111,1,Social,Italy,Suppress — flag for quarterly review
+1271,Champions,54,2,6540,3021.48,5,3,5,535,0,Social,China,Referral program + premium card upsell
+1272,Lost,1557,1,105,48.64,1,1,2,112,1,Social,Japan,Suppress — flag for quarterly review
+1273,Lost,1554,1,75,34.74,1,1,1,111,1,Social,Japan,Suppress — flag for quarterly review
+1274,Promising,117,3,950,440.8,5,5,4,554,0,Other,Italy,Cross-sell — travel rewards / premium product
+1275,Champions,633,2,7235,3359.93,3,3,5,335,0,Search,Japan,Referral program + premium card upsell
+1276,At-Risk,603,2,690,320.44,3,3,4,334,0,Search,India,Win-back campaign within 7 days
+1277,Promising,467,3,552,256.57,4,5,4,454,0,Other,Canada,Cross-sell — travel rewards / premium product
+1278,Champions,9,2,10500,4876.2,5,3,5,535,0,Social,Australia,Referral program + premium card upsell
+1279,At-Risk,73,2,540,251.42,5,3,4,534,0,Social,China,Win-back campaign within 7 days
+1280,At-Risk,427,2,125,58.2,4,3,2,432,0,Social,Canada,Win-back campaign within 7 days
+1281,Lost,1544,1,70,32.59,1,1,1,111,1,Social,Canada,Suppress — flag for quarterly review
+1282,Lost,1542,1,140,65.52,1,1,2,112,1,Social,Australia,Suppress — flag for quarterly review
+1283,Lost,1541,1,300,140.4,1,1,3,113,1,Offline,Canada,Suppress — flag for quarterly review
+1284,At-Risk,538,2,416,194.69,4,3,3,433,0,Other,Japan,Win-back campaign within 7 days
+1285,Lost,1539,1,125,58.5,1,1,2,112,1,Social,Australia,Suppress — flag for quarterly review
+1286,At-Risk,197,2,660,308.88,5,3,4,534,0,Search,China,Win-back campaign within 7 days
+1287,Lost,1537,1,60,28.08,1,1,1,111,1,Offline,Canada,Suppress — flag for quarterly review
+1288,At-Risk,252,2,100,46.8,4,3,1,431,0,Social,Australia,Win-back campaign within 7 days
+1289,Lost,1534,1,150,70.56,1,1,2,112,1,Social,India,Suppress — flag for quarterly review
+1290,Champions,698,2,4625,2170.05,3,3,5,335,0,Search,USA,Referral program + premium card upsell
+1291,Lost,1532,1,8,3.76,1,1,1,111,1,Social,UK,Suppress — flag for quarterly review
+1292,At-Risk,581,2,2200,1034.88,3,3,5,335,0,Search,Australia,Win-back campaign within 7 days
+1293,Lost,1529,1,48,22.58,1,1,1,111,1,Offline,Japan,Suppress — flag for quarterly review
+1294,Lost,1528,1,50,23.52,1,1,1,111,1,Offline,UK,Suppress — flag for quarterly review
+1295,Champions,219,2,9180,4329.29,5,3,5,535,0,Offline,Canada,Referral program + premium card upsell
+1296,Lost,1525,1,75,35.46,1,1,1,111,1,Search,Japan,Suppress — flag for quarterly review
+1297,Lost,1524,1,105,49.64,1,1,2,112,1,Other,Australia,Suppress — flag for quarterly review
+1298,Lost,1524,1,240,113.47,1,1,3,113,1,Search,India,Suppress — flag for quarterly review
+1299,Promising,306,3,400,189.12,4,5,3,453,0,Social,Australia,Cross-sell — travel rewards / premium product
+1300,Lost,1523,1,2000,945.6,1,1,4,114,1,Social,Canada,Suppress — flag for quarterly review
+1301,Lost,1521,1,240,113.47,1,1,3,113,1,Search,Spain,Suppress — flag for quarterly review
+1302,Lost,1519,1,140,66.19,1,1,2,112,1,Social,India,Suppress — flag for quarterly review
+1303,Lost,1519,1,200,94.56,1,1,2,112,1,Offline,UK,Suppress — flag for quarterly review
+1304,At-Risk,627,2,208,98.59,3,4,2,342,0,Social,Canada,Win-back campaign within 7 days
+1305,Lost,1517,1,70,33.26,1,1,1,111,1,Social,India,Suppress — flag for quarterly review
+1306,Lost,1514,1,54,25.66,1,1,1,111,1,Social,USA,Suppress — flag for quarterly review
+1307,Lost,1513,1,75,35.64,1,1,1,111,1,Other,Spain,Suppress — flag for quarterly review
+1308,Lost,1513,1,320,152.06,1,1,3,113,1,Social,Italy,Suppress — flag for quarterly review
+1309,At-Risk,592,2,200,95.28,3,4,2,342,0,Social,Canada,Win-back campaign within 7 days
+1310,Lost,1510,1,125,59.7,1,1,2,112,1,Social,Australia,Suppress — flag for quarterly review
+1311,Promising,33,4,163,77.75,5,5,2,552,0,Social,Spain,Cross-sell — travel rewards / premium product
+1312,Promising,501,3,670,319.99,4,5,4,454,0,Social,Italy,Cross-sell — travel rewards / premium product
+1313,Promising,162,3,285,136.12,5,5,3,553,0,Offline,China,Cross-sell — travel rewards / premium product
+1314,Lost,1507,1,35,16.72,1,1,1,111,1,Social,Canada,Suppress — flag for quarterly review
+1315,At-Risk,721,2,240,114.62,3,4,3,343,0,Social,Spain,Win-back campaign within 7 days
+1316,Promising,26,3,320,152.84,5,5,3,553,0,Other,Spain,Cross-sell — travel rewards / premium product
+1317,At-Risk,107,2,242,115.58,5,4,3,543,0,Social,Italy,Win-back campaign within 7 days
+1318,Lost,1505,1,8,3.82,1,1,1,111,1,Social,Canada,Suppress — flag for quarterly review
+1319,Lost,1504,1,105,50.15,1,1,2,112,1,Social,USA,Suppress — flag for quarterly review
+1320,Promising,367,3,450,215.64,4,5,3,453,0,Other,UK,Cross-sell — travel rewards / premium product
+1321,At-Risk,185,2,615,294.46,5,4,4,544,0,Social,China,Win-back campaign within 7 days
+1322,Promising,271,3,1120,537.6,4,5,4,454,0,Other,UK,Cross-sell — travel rewards / premium product
+1323,Lost,1501,1,420,201.6,1,1,3,113,1,Social,Italy,Suppress — flag for quarterly review
+1324,Promising,383,3,1800,864.0,4,5,4,454,0,Offline,Australia,Cross-sell — travel rewards / premium product
+1325,Promising,142,3,790,379.83,5,5,4,554,0,Offline,India,Cross-sell — travel rewards / premium product
+1326,Lost,1498,1,100,48.0,1,1,1,111,1,Social,Canada,Suppress — flag for quarterly review
+1327,At-Risk,506,2,105,50.53,4,4,2,442,0,Search,Japan,Win-back campaign within 7 days
+1328,Champions,1496,1,6000,2894.4,1,1,5,115,1,Search,Italy,Referral program + premium card upsell
+1329,Lost,1495,1,1200,578.88,1,1,4,114,1,Social,Japan,Suppress — flag for quarterly review
+1330,Lost,1495,1,250,120.6,1,1,3,113,1,Search,UK,Suppress — flag for quarterly review
+1331,At-Risk,378,2,465,223.76,4,4,4,444,0,Social,Australia,Win-back campaign within 7 days
+1332,Lost,1494,1,300,144.72,1,1,3,113,1,Social,Spain,Suppress — flag for quarterly review
+1333,At-Risk,323,2,65,31.36,4,4,1,441,0,Other,Canada,Win-back campaign within 7 days
+1334,Promising,459,3,218,105.34,4,5,2,452,0,Search,UK,Cross-sell — travel rewards / premium product
+1335,Champions,553,3,4890,2366.76,3,5,5,355,0,Social,India,Referral program + premium card upsell
+1336,Lost,1488,1,300,145.44,1,1,3,113,1,Search,USA,Suppress — flag for quarterly review
+1337,At-Risk,269,2,525,253.89,4,4,4,444,0,Social,Japan,Win-back campaign within 7 days
+1338,Lost,1487,1,120,58.18,1,1,2,112,1,Search,Japan,Suppress — flag for quarterly review
+1339,At-Risk,216,2,225,108.81,5,4,2,542,0,Search,Italy,Win-back campaign within 7 days
+1340,At-Risk,64,2,435,210.37,5,4,3,543,0,Other,China,Win-back campaign within 7 days
+1341,Lost,1487,1,1200,581.76,1,1,4,114,1,Social,Spain,Suppress — flag for quarterly review
+1342,At-Risk,545,2,3090,1498.03,3,4,5,345,0,Social,USA,Win-back campaign within 7 days
+1343,Promising,178,3,695,337.5,5,5,4,554,0,Offline,USA,Cross-sell — travel rewards / premium product
+1344,At-Risk,290,2,64,31.1,4,4,1,441,0,Other,Canada,Win-back campaign within 7 days
+1345,Lost,1481,1,18,8.77,1,1,1,111,1,Social,Italy,Suppress — flag for quarterly review
+1346,At-Risk,525,2,245,119.07,4,4,3,443,0,Social,Australia,Win-back campaign within 7 days
+1347,Champions,213,3,7890,3837.7,5,5,5,555,0,Offline,Canada,Referral program + premium card upsell
+1348,Lost,1479,1,1200,584.64,1,1,4,114,1,Social,Canada,Suppress — flag for quarterly review
+1349,At-Risk,226,2,505,246.04,5,4,4,544,0,Search,Spain,Win-back campaign within 7 days
+1350,Lost,1477,1,1600,779.52,1,1,4,114,1,Social,Italy,Suppress — flag for quarterly review
+1351,Lost,1477,1,54,26.31,1,1,1,111,1,Offline,Australia,Suppress — flag for quarterly review
+1353,Lost,1476,1,360,175.39,1,1,3,113,1,Offline,Canada,Suppress — flag for quarterly review
+1354,At-Risk,289,2,3150,1538.46,4,4,5,445,0,Social,China,Win-back campaign within 7 days
+1355,Lost,1475,1,360,175.39,1,1,3,113,1,Other,Spain,Suppress — flag for quarterly review
+1356,At-Risk,511,2,180,87.91,4,4,2,442,0,Offline,Canada,Win-back campaign within 7 days
+1357,Lost,1473,1,90,44.06,1,1,1,111,1,Search,USA,Suppress — flag for quarterly review
+1358,At-Risk,340,2,190,93.02,4,4,2,442,0,Social,India,Win-back campaign within 7 days
+1359,Lost,1472,1,360,176.26,1,1,3,113,1,Social,Australia,Suppress — flag for quarterly review
+1361,Promising,242,4,3323,1624.95,4,5,5,455,0,Offline,USA,Cross-sell — travel rewards / premium product
+1362,At-Risk,149,2,1050,515.34,5,4,4,544,0,Search,Australia,Win-back campaign within 7 days
+1363,At-Risk,318,2,560,274.85,4,4,4,444,0,Social,Spain,Win-back campaign within 7 days
+1364,Promising,226,3,425,208.76,5,5,3,553,0,Search,Italy,Cross-sell — travel rewards / premium product
+1365,At-Risk,674,2,485,238.62,3,4,4,344,0,Social,Japan,Win-back campaign within 7 days
+1366,At-Risk,242,2,2640,1302.05,4,4,5,445,0,Other,UK,Win-back campaign within 7 days
+1367,Lost,1461,1,1600,787.2,1,1,4,114,1,Other,UK,Suppress — flag for quarterly review
+1368,At-Risk,567,2,130,64.27,3,4,2,342,0,Search,India,Win-back campaign within 7 days
+1369,Promising,204,3,2600,1285.44,5,5,5,555,0,Social,Japan,Cross-sell — travel rewards / premium product
+1370,Lost,1457,1,2400,1186.56,1,1,5,115,1,Social,India,Suppress — flag for quarterly review
+1371,Lost,1455,1,30,14.83,1,1,1,111,1,Offline,Spain,Suppress — flag for quarterly review
+1372,Lost,1454,1,120,59.33,1,1,2,112,1,Social,Canada,Suppress — flag for quarterly review
+1373,Lost,1454,1,150,74.16,1,1,2,112,1,Social,Australia,Suppress — flag for quarterly review
+1374,Lost,1454,1,3000,1483.2,1,1,5,115,1,Social,Italy,Suppress — flag for quarterly review
+1375,Lost,1453,1,80,39.55,1,1,1,111,1,Social,UK,Suppress — flag for quarterly review
+1376,At-Risk,661,2,490,242.84,3,4,4,344,0,Other,China,Win-back campaign within 7 days
+1377,Lost,1451,1,3000,1490.4,1,1,5,115,1,Social,Spain,Suppress — flag for quarterly review
+1378,Lost,1451,1,150,74.52,1,1,2,112,1,Social,Italy,Suppress — flag for quarterly review
+1379,Promising,35,3,216,107.31,5,5,2,552,0,Social,Spain,Cross-sell — travel rewards / premium product
+1380,Lost,1450,1,160,79.49,1,1,2,112,1,Search,Australia,Suppress — flag for quarterly review
+1381,At-Risk,155,2,166,82.67,5,4,2,542,0,Search,Italy,Win-back campaign within 7 days
+1382,At-Risk,136,2,200,99.6,5,4,2,542,0,Social,Spain,Win-back campaign within 7 days
+1383,At-Risk,313,2,106,52.92,4,4,2,442,0,Social,Japan,Win-back campaign within 7 days
+1384,At-Risk,543,2,340,169.73,3,4,3,343,0,Other,China,Win-back campaign within 7 days
+1385,Champions,1440,1,7200,3594.24,1,1,5,115,1,Social,Australia,Referral program + premium card upsell
+1386,Lost,1439,1,30,14.98,1,1,1,111,1,Search,China,Suppress — flag for quarterly review
+1387,Lost,1438,1,350,175.56,1,1,3,113,1,Social,Spain,Suppress — flag for quarterly review
+1388,Lost,1437,1,400,200.64,1,1,3,113,1,Search,Japan,Suppress — flag for quarterly review
+1389,At-Risk,557,2,115,57.68,3,4,2,342,0,Social,Italy,Win-back campaign within 7 days
+1390,Lost,1435,1,100,50.16,1,1,1,111,1,Other,Spain,Suppress — flag for quarterly review
+1391,Champions,221,3,8105,4071.96,5,5,5,555,0,Search,Spain,Referral program + premium card upsell
+1392,At-Risk,276,2,2050,1030.74,4,4,5,445,0,Search,Japan,Win-back campaign within 7 days
+1393,Promising,223,3,386,193.93,5,5,3,553,0,Social,UK,Cross-sell — travel rewards / premium product
+1394,Champions,625,2,7225,3632.73,3,4,5,345,0,Social,USA,Referral program + premium card upsell
+1395,Lost,1432,1,200,100.32,1,1,2,112,1,Search,Australia,Suppress — flag for quarterly review
+1396,At-Risk,123,2,1700,854.76,5,4,4,544,0,Social,Spain,Win-back campaign within 7 days
+1397,At-Risk,283,2,540,272.16,4,4,4,444,0,Social,Canada,Win-back campaign within 7 days
+1398,At-Risk,429,2,460,231.84,4,4,4,444,0,Other,Australia,Win-back campaign within 7 days
+1399,Lost,1427,1,160,80.64,1,1,2,112,1,Social,Spain,Suppress — flag for quarterly review
+1400,At-Risk,382,2,960,484.99,4,4,4,444,0,Social,UK,Win-back campaign within 7 days
+1401,At-Risk,377,2,240,121.25,4,4,3,443,0,Search,UK,Win-back campaign within 7 days
+1402,At-Risk,71,2,3210,1621.69,5,4,5,545,0,Search,China,Win-back campaign within 7 days
+1403,At-Risk,435,2,174,87.9,4,4,2,442,0,Offline,Australia,Win-back campaign within 7 days
+1404,At-Risk,130,2,480,242.5,5,4,4,544,0,Social,Australia,Win-back campaign within 7 days
+1405,At-Risk,499,2,3000,1515.6,4,4,5,445,0,Search,USA,Win-back campaign within 7 days
+1406,Lost,1423,1,280,141.79,1,1,3,113,1,Social,Japan,Suppress — flag for quarterly review
+1407,Champions,126,2,7260,3676.46,5,4,5,545,0,Search,Spain,Referral program + premium card upsell
+1408,Lost,1422,1,16,8.1,1,1,1,111,1,Social,Australia,Suppress — flag for quarterly review
+1409,At-Risk,80,2,210,106.34,5,4,2,542,0,Search,China,Win-back campaign within 7 days
+1410,Lost,1422,1,50,25.32,1,1,1,111,1,Social,China,Suppress — flag for quarterly review
+1411,Lost,1421,1,360,182.3,1,1,3,113,1,Other,Spain,Suppress — flag for quarterly review
+1412,Lost,1421,1,270,136.73,1,1,3,113,1,Offline,UK,Suppress — flag for quarterly review
+1413,At-Risk,148,2,250,126.6,5,4,3,543,0,Social,India,Win-back campaign within 7 days
+1414,Lost,1419,1,100,50.64,1,1,1,111,1,Search,Japan,Suppress — flag for quarterly review
+1415,Promising,91,3,1675,849.55,5,5,4,554,0,Social,Canada,Cross-sell — travel rewards / premium product
+1416,Lost,1419,1,105,53.17,1,1,2,112,1,Social,USA,Suppress — flag for quarterly review
+1417,At-Risk,282,2,3500,1776.6,4,4,5,445,0,Search,Canada,Win-back campaign within 7 days
+1418,Lost,1419,1,150,75.96,1,1,2,112,1,Offline,China,Suppress — flag for quarterly review
+1419,At-Risk,521,2,95,48.22,4,4,1,441,0,Other,Spain,Win-back campaign within 7 days
+1420,Lost,1416,1,30,15.26,1,1,1,111,1,Social,Italy,Suppress — flag for quarterly review
+1421,At-Risk,228,2,100,50.88,5,4,1,541,0,Social,China,Win-back campaign within 7 days
+1422,Lost,1416,1,70,35.62,1,1,1,111,1,Social,India,Suppress — flag for quarterly review
+1423,Lost,1416,1,250,127.2,1,1,3,113,1,Social,China,Suppress — flag for quarterly review
+1424,At-Risk,160,2,108,54.95,5,4,2,542,0,Search,UK,Win-back campaign within 7 days
+1425,At-Risk,418,2,360,183.17,4,4,3,443,0,Other,India,Win-back campaign within 7 days
+1426,Lost,1414,1,40,20.35,1,1,1,111,1,Social,Japan,Suppress — flag for quarterly review
+1427,Lost,1412,1,90,45.79,1,1,1,111,1,Social,Australia,Suppress — flag for quarterly review
+1428,Lost,1412,1,160,81.41,1,1,2,112,1,Social,China,Suppress — flag for quarterly review
+1429,Lost,1411,1,75,38.34,1,1,1,111,1,Search,Japan,Suppress — flag for quarterly review
+1430,Champions,289,2,7620,3895.34,4,4,5,445,0,Social,China,Referral program + premium card upsell
+1431,Lost,1409,1,2500,1278.0,1,1,5,115,1,Search,Canada,Suppress — flag for quarterly review
+1432,Lost,1408,1,140,71.57,1,1,2,112,1,Offline,Australia,Suppress — flag for quarterly review
+1433,Lost,1402,1,150,77.04,1,1,2,112,1,Offline,Australia,Suppress — flag for quarterly review
+1434,Promising,171,3,3750,1926.0,5,5,5,555,0,Offline,UK,Cross-sell — travel rewards / premium product
+1435,Lost,1400,1,150,77.04,1,1,2,112,1,Social,Japan,Suppress — flag for quarterly review
+1436,At-Risk,69,2,520,267.7,5,4,4,544,0,Social,India,Win-back campaign within 7 days
+1437,Promising,27,3,625,321.99,5,5,4,554,0,Social,USA,Cross-sell — travel rewards / premium product
+1438,Lost,1396,1,25,12.9,1,1,1,111,1,Social,USA,Suppress — flag for quarterly review
+1439,At-Risk,310,2,1200,620.64,4,4,4,444,0,Search,Italy,Win-back campaign within 7 days
+1440,Promising,19,4,1655,855.97,5,5,4,554,0,Social,UK,Cross-sell — travel rewards / premium product
+1441,Lost,1392,1,105,54.43,1,1,2,112,1,Social,UK,Suppress — flag for quarterly review
+1442,Promising,38,3,960,496.9,5,5,4,554,0,Offline,Japan,Cross-sell — travel rewards / premium product
+1443,Lost,1390,1,420,217.73,1,1,3,113,1,Search,China,Suppress — flag for quarterly review
+1444,Lost,1389,1,175,90.72,1,1,2,112,1,Search,Canada,Suppress — flag for quarterly review
+1445,At-Risk,562,2,280,145.15,3,4,3,343,0,Offline,UK,Win-back campaign within 7 days
+1446,At-Risk,442,2,400,207.36,4,4,3,443,0,Social,China,Win-back campaign within 7 days
+1447,Lost,1387,1,4500,2332.8,1,1,5,115,1,Social,Australia,Suppress — flag for quarterly review
+1448,Lost,1385,1,140,72.91,1,1,2,112,1,Social,Italy,Suppress — flag for quarterly review
+1449,Lost,1384,1,4800,2499.84,1,1,5,115,1,Social,India,Suppress — flag for quarterly review
+1450,Promising,240,4,1465,762.97,4,5,4,454,0,Search,Italy,Cross-sell — travel rewards / premium product
+1451,Lost,1381,1,35,18.23,1,1,1,111,1,Offline,India,Suppress — flag for quarterly review
+1452,At-Risk,602,2,2600,1357.2,3,4,5,345,0,Social,India,Win-back campaign within 7 days
+1453,At-Risk,101,2,200,104.64,5,4,2,542,0,Social,Spain,Win-back campaign within 7 days
+1454,Lost,1377,1,75,39.24,1,1,1,111,1,Social,Japan,Suppress — flag for quarterly review
+1455,Lost,1375,1,2400,1255.68,1,1,5,115,1,Other,UK,Suppress — flag for quarterly review
+1456,Promising,34,3,228,119.47,5,5,2,552,0,Social,UK,Cross-sell — travel rewards / premium product
+1457,Lost,1375,1,80,41.86,1,1,1,111,1,Social,UK,Suppress — flag for quarterly review
+1458,Promising,465,3,890,466.37,4,5,4,454,0,Other,Canada,Cross-sell — travel rewards / premium product
+1459,At-Risk,661,2,1740,912.46,3,4,4,344,0,Other,UK,Win-back campaign within 7 days
+1460,Promising,87,3,3178,1665.27,5,5,5,555,0,Offline,Australia,Cross-sell — travel rewards / premium product
+1461,At-Risk,299,2,320,167.81,4,4,3,443,0,Other,Australia,Win-back campaign within 7 days
+1462,Lost,1372,1,450,236.52,1,1,3,113,1,Social,China,Suppress — flag for quarterly review
+1463,At-Risk,530,2,520,272.69,4,4,4,444,0,Offline,Japan,Win-back campaign within 7 days
+1464,Promising,70,4,3170,1666.15,5,5,5,555,0,Social,Italy,Cross-sell — travel rewards / premium product
+1465,At-Risk,122,2,540,284.47,5,4,4,544,0,Social,China,Win-back campaign within 7 days
+1466,Lost,1368,1,18,9.46,1,1,1,111,1,Offline,Italy,Suppress — flag for quarterly review
+1467,Lost,1367,1,90,47.3,1,1,1,111,1,Social,Canada,Suppress — flag for quarterly review
+1468,Promising,212,3,4215,2222.15,5,5,5,555,0,Social,Spain,Cross-sell — travel rewards / premium product
+1469,Lost,1365,1,50,26.4,1,1,1,111,1,Social,Italy,Suppress — flag for quarterly review
+1470,Champions,1362,1,9000,4752.0,1,1,5,115,1,Social,China,Referral program + premium card upsell
+1471,Lost,1355,1,250,132.6,1,1,3,113,1,Social,Italy,Suppress — flag for quarterly review
+1472,Lost,1354,1,100,53.28,1,1,1,111,1,Other,USA,Suppress — flag for quarterly review
+1473,At-Risk,622,2,1620,861.19,3,4,4,344,0,Social,Italy,Win-back campaign within 7 days
+1474,Promising,214,3,640,340.99,5,5,4,554,0,Social,India,Cross-sell — travel rewards / premium product
+1475,Lost,1351,1,50,26.64,1,1,1,111,1,Search,UK,Suppress — flag for quarterly review
+1476,Promising,105,3,237,126.46,5,5,3,553,0,Social,USA,Cross-sell — travel rewards / premium product
+1477,Promising,260,3,181,96.58,4,5,2,452,0,Social,Canada,Cross-sell — travel rewards / premium product
+1478,Lost,1349,1,15,7.99,1,1,1,111,1,Other,Italy,Suppress — flag for quarterly review
+1479,Promising,172,5,323,172.71,5,5,3,553,0,Search,Canada,Cross-sell — travel rewards / premium product
+1480,Lost,1347,1,90,48.17,1,1,1,111,1,Offline,India,Suppress — flag for quarterly review
+1481,At-Risk,44,2,1980,1059.7,5,4,4,544,0,Social,USA,Win-back campaign within 7 days
+1482,Champions,379,2,4900,2622.48,4,4,5,445,0,Search,Italy,Referral program + premium card upsell
+1483,Lost,1345,1,240,128.45,1,1,3,113,1,Social,Italy,Suppress — flag for quarterly review
+1484,Lost,1345,1,125,66.9,1,1,2,112,1,Search,Italy,Suppress — flag for quarterly review
+1485,At-Risk,180,2,150,80.28,5,4,2,542,0,Other,Italy,Win-back campaign within 7 days
+1486,Promising,12,3,2124,1138.46,5,5,5,555,0,Social,Australia,Cross-sell — travel rewards / premium product
+1487,Lost,1343,1,100,53.52,1,2,1,121,1,Social,Japan,Suppress — flag for quarterly review
+1488,Lost,1341,1,30,16.13,2,2,1,221,1,Social,Japan,Suppress — flag for quarterly review
+1489,At-Risk,524,2,53,28.49,4,4,1,441,0,Offline,Canada,Win-back campaign within 7 days
+1490,Lost,1340,1,16,8.6,2,2,1,221,1,Social,Canada,Suppress — flag for quarterly review
+1491,At-Risk,416,2,540,290.3,4,4,4,444,0,Offline,Spain,Win-back campaign within 7 days
+1492,Lost,1339,1,175,94.08,2,2,2,222,1,Offline,Canada,Suppress — flag for quarterly review
+1493,At-Risk,380,2,530,285.56,4,4,4,444,0,Other,USA,Win-back campaign within 7 days
+1494,Lost,1336,1,100,54.0,2,2,1,221,1,Social,Spain,Suppress — flag for quarterly review
+1495,Lost,1336,1,3000,1620.0,2,2,5,225,1,Social,China,Suppress — flag for quarterly review
+1496,Champions,371,3,9620,5194.81,4,5,5,455,0,Social,UK,Referral program + premium card upsell
+1497,Lost,1333,1,400,216.0,2,2,3,223,1,Other,Australia,Suppress — flag for quarterly review
+1498,Lost,1333,1,800,432.0,2,2,4,224,1,Search,China,Suppress — flag for quarterly review
+1499,Lost,1333,1,1200,648.0,2,2,4,224,1,Social,UK,Suppress — flag for quarterly review
+1500,Lost,1331,1,16,8.64,2,2,1,221,1,Other,USA,Suppress — flag for quarterly review
+1501,Lost,1330,1,150,81.36,2,2,2,222,1,Social,Spain,Suppress — flag for quarterly review
+1502,Lost,1328,1,180,97.63,2,2,2,222,1,Other,Japan,Suppress — flag for quarterly review
+1503,Lost,1328,1,8,4.34,2,2,1,221,1,Search,USA,Suppress — flag for quarterly review
+1504,Lost,1328,1,45,24.41,2,2,1,221,1,Social,Japan,Suppress — flag for quarterly review
+1505,Champions,1328,1,6000,3254.4,2,2,5,225,1,Offline,Japan,Referral program + premium card upsell
+1506,Lost,1327,1,48,26.04,2,2,1,221,1,Other,Australia,Suppress — flag for quarterly review
+1507,Lost,1325,1,210,113.9,2,2,2,222,1,Search,India,Suppress — flag for quarterly review
+1508,Lost,1325,1,36,19.53,2,2,1,221,1,Offline,Australia,Suppress — flag for quarterly review
+1509,Lost,1324,1,420,228.82,2,2,3,223,1,Social,China,Suppress — flag for quarterly review
+1510,At-Risk,157,2,335,182.51,5,4,3,543,0,Social,Spain,Win-back campaign within 7 days
+1511,Lost,1322,1,15,8.17,2,2,1,221,1,Social,Japan,Suppress — flag for quarterly review
+1512,At-Risk,495,2,320,174.34,4,4,3,443,0,Other,China,Win-back campaign within 7 days
+1513,Lost,1321,1,240,130.75,2,2,3,223,1,Social,UK,Suppress — flag for quarterly review
+1514,Lost,1320,1,240,130.75,2,2,3,223,1,Social,India,Suppress — flag for quarterly review
+1515,Lost,1319,1,150,81.72,2,2,2,222,1,Other,Australia,Suppress — flag for quarterly review
+1516,At-Risk,359,2,555,303.03,4,4,4,444,0,Social,USA,Win-back campaign within 7 days
+1517,Lost,1316,1,40,21.89,2,2,1,221,1,Search,India,Suppress — flag for quarterly review
+1518,At-Risk,243,2,2600,1422.72,4,4,5,445,0,Offline,Canada,Win-back campaign within 7 days
+1519,Lost,1316,1,70,38.3,2,2,1,221,1,Offline,USA,Suppress — flag for quarterly review
+1520,At-Risk,236,2,392,214.5,5,4,3,543,0,Social,India,Win-back campaign within 7 days
+1521,Lost,1314,1,80,43.78,2,2,1,221,1,Other,India,Suppress — flag for quarterly review
+1522,Champions,1313,1,9000,4924.8,2,2,5,225,1,Offline,Japan,Referral program + premium card upsell
+1523,At-Risk,688,2,106,58.13,3,4,2,342,0,Offline,UK,Win-back campaign within 7 days
+1524,Lost,1312,1,500,274.8,2,2,4,224,1,Other,Spain,Suppress — flag for quarterly review
+1525,Lost,1312,1,450,247.32,2,2,3,223,1,Search,Spain,Suppress — flag for quarterly review
+1526,Lost,1310,1,80,43.97,2,2,1,221,1,Search,USA,Suppress — flag for quarterly review
+1527,Champions,31,3,7218,3972.79,5,5,5,555,0,Offline,Canada,Referral program + premium card upsell
+1528,At-Risk,506,2,554,305.14,4,4,4,444,0,Social,India,Win-back campaign within 7 days
+1529,Champions,352,2,4950,2726.46,4,4,5,445,0,Social,UK,Referral program + premium card upsell
+1530,Lost,1307,1,75,41.4,2,2,1,221,1,Offline,UK,Suppress — flag for quarterly review
+1531,Champions,234,2,4770,2627.32,5,4,5,545,0,Social,China,Referral program + premium card upsell
+1532,At-Risk,499,2,218,120.34,4,4,2,442,0,Other,China,Win-back campaign within 7 days
+1533,Lost,1303,1,280,154.56,2,2,3,223,1,Social,USA,Suppress — flag for quarterly review
+1534,Champions,616,2,4875,2696.85,3,4,5,345,0,Search,USA,Referral program + premium card upsell
+1535,Lost,1301,1,120,66.53,2,2,2,222,1,Search,China,Suppress — flag for quarterly review
+1536,At-Risk,74,2,700,387.24,5,4,4,544,0,Social,India,Win-back campaign within 7 days
+1537,Lost,1300,1,175,97.02,2,2,2,222,1,Social,Spain,Suppress — flag for quarterly review
+1538,Hibernating,1300,1,3000,1663.2,2,2,5,225,1,Social,Japan,Reactivation email series
+1539,At-Risk,246,2,116,64.31,4,4,2,442,0,Social,Spain,Win-back campaign within 7 days
+1540,Lost,1299,1,240,133.06,2,2,3,223,1,Social,UK,Suppress — flag for quarterly review
+1541,Promising,364,3,780,432.43,4,5,4,454,0,Offline,China,Cross-sell — travel rewards / premium product
+1542,Lost,1299,1,72,39.92,2,2,1,221,1,Offline,Japan,Suppress — flag for quarterly review
+1543,Promising,45,3,670,371.44,5,5,4,554,0,Other,India,Cross-sell — travel rewards / premium product
+1544,Lost,1297,1,40,22.18,2,2,1,221,1,Social,USA,Suppress — flag for quarterly review
+1545,At-Risk,143,2,780,433.37,5,4,4,544,0,Social,Australia,Win-back campaign within 7 days
+1546,Lost,1297,1,240,133.06,2,2,3,223,1,Other,China,Suppress — flag for quarterly review
+1547,Lost,1297,1,80,44.35,2,2,1,221,1,Offline,UK,Suppress — flag for quarterly review
+1548,Lost,1296,1,400,221.76,2,2,3,223,1,Search,UK,Suppress — flag for quarterly review
+1549,At-Risk,686,2,480,266.69,3,4,4,344,0,Social,Canada,Win-back campaign within 7 days
+1550,Promising,107,3,3118,1731.11,5,5,5,555,0,Other,USA,Cross-sell — travel rewards / premium product
+1551,Lost,1296,1,100,55.44,2,2,1,221,1,Offline,China,Suppress — flag for quarterly review
+1552,At-Risk,701,2,180,100.01,3,4,2,342,0,Offline,Italy,Win-back campaign within 7 days
+1553,Lost,1295,1,15,8.35,2,2,1,221,1,Offline,India,Suppress — flag for quarterly review
+1554,Lost,1295,1,540,300.67,2,2,4,224,1,Offline,Australia,Suppress — flag for quarterly review
+1555,Lost,1293,1,54,30.07,2,2,1,221,1,Other,Australia,Suppress — flag for quarterly review
+1556,Lost,1292,1,50,27.84,2,2,1,221,1,Search,Canada,Suppress — flag for quarterly review
+1557,Promising,297,4,639,356.56,4,5,4,454,0,Search,UK,Cross-sell — travel rewards / premium product
+1558,Lost,1289,1,175,97.86,2,2,2,222,1,Social,China,Suppress — flag for quarterly review
+1559,Promising,130,3,3300,1842.72,5,5,5,555,0,Other,Spain,Cross-sell — travel rewards / premium product
+1560,Champions,541,2,7500,4185.0,3,4,5,345,0,Search,China,Referral program + premium card upsell
+1561,Promising,497,3,1970,1100.05,4,5,4,454,0,Search,Japan,Cross-sell — travel rewards / premium product
+1562,Lost,1287,1,270,150.98,2,2,3,223,1,Other,Spain,Suppress — flag for quarterly review
+1563,Lost,1286,1,160,89.47,2,2,2,222,1,Social,Italy,Suppress — flag for quarterly review
+1564,Lost,1284,1,24,13.48,2,2,1,221,1,Social,UK,Suppress — flag for quarterly review
+1565,Promising,256,3,180,101.09,4,5,2,452,0,Offline,Spain,Cross-sell — travel rewards / premium product
+1566,Promising,384,3,550,309.75,4,5,4,454,0,Other,China,Cross-sell — travel rewards / premium product
+1567,Hibernating,1279,1,150,84.6,2,2,2,222,1,Social,China,Reactivation email series
+1568,Promising,548,3,1265,712.45,3,5,4,354,0,Social,Italy,Cross-sell — travel rewards / premium product
+1569,Hibernating,1276,1,125,70.5,2,2,2,222,1,Social,India,Reactivation email series
+1570,At-Risk,731,2,1920,1085.18,3,4,4,344,0,Search,China,Win-back campaign within 7 days
+1571,At-Risk,529,2,1675,946.71,4,4,4,444,0,Other,Australia,Win-back campaign within 7 days
+1572,At-Risk,410,2,675,381.51,4,4,4,444,0,Social,India,Win-back campaign within 7 days
+1573,At-Risk,385,2,180,101.74,4,4,2,442,0,Social,UK,Win-back campaign within 7 days
+1574,At-Risk,331,2,720,406.94,4,4,4,444,0,Social,Italy,Win-back campaign within 7 days
+1575,Hibernating,1272,1,280,158.59,2,2,3,223,1,Search,Japan,Reactivation email series
+1576,At-Risk,608,2,65,36.82,3,4,1,341,0,Offline,Italy,Win-back campaign within 7 days
+1577,Hibernating,1271,1,1200,679.68,2,2,4,224,1,Search,Italy,Reactivation email series
+1578,At-Risk,398,2,310,175.58,4,4,3,443,0,Social,Spain,Win-back campaign within 7 days
+1579,At-Risk,231,2,2075,1175.28,5,4,5,545,0,Other,China,Win-back campaign within 7 days
+1580,At-Risk,604,2,550,311.52,3,4,4,344,0,Social,China,Win-back campaign within 7 days
+1581,Champions,254,3,5060,2874.09,4,5,5,455,0,Offline,China,Referral program + premium card upsell
+1582,Hibernating,1267,1,320,182.02,2,2,3,223,1,Offline,Spain,Reactivation email series
+1583,Hibernating,1266,1,2000,1137.6,2,2,4,224,1,Social,Australia,Reactivation email series
+1584,Hibernating,1265,1,1200,682.56,2,2,4,224,1,Social,Australia,Reactivation email series
+1585,Hibernating,1265,1,300,170.64,2,2,3,223,1,Social,Italy,Reactivation email series
+1586,Promising,1,3,2330,1325.31,5,5,5,555,0,Social,India,Cross-sell — travel rewards / premium product
+1587,Hibernating,1264,1,72,40.95,2,2,1,221,1,Social,Italy,Reactivation email series
+1588,Hibernating,1263,1,75,42.84,2,2,1,221,1,Social,Canada,Reactivation email series
+1589,Promising,201,3,580,330.83,5,5,4,554,0,Social,Italy,Cross-sell — travel rewards / premium product
+1590,At-Risk,122,2,2070,1182.38,5,4,5,545,0,Other,USA,Win-back campaign within 7 days
+1591,At-Risk,349,2,180,102.82,4,4,2,442,0,Search,USA,Win-back campaign within 7 days
+1592,Champions,283,2,5500,3148.2,4,4,5,445,0,Offline,Canada,Referral program + premium card upsell
+1593,Hibernating,1256,1,300,172.08,2,2,3,223,1,Other,USA,Reactivation email series
+1594,Promising,436,4,753,431.47,4,5,4,454,0,Social,China,Cross-sell — travel rewards / premium product
+1595,Hibernating,1256,1,300,172.08,2,2,3,223,1,Social,Canada,Reactivation email series
+1596,Hibernating,1256,1,500,286.8,2,2,4,224,1,Search,Canada,Reactivation email series
+1597,Hibernating,1253,1,210,120.46,2,2,2,222,1,Search,Japan,Reactivation email series
+1598,Champions,478,2,9000,5173.2,4,4,5,445,0,Social,UK,Referral program + premium card upsell
+1599,Hibernating,1251,1,270,155.52,2,2,3,223,1,Social,Spain,Reactivation email series
+1600,Hibernating,1250,1,210,120.96,2,2,2,222,1,Social,UK,Reactivation email series
+1601,At-Risk,461,2,105,60.48,4,4,2,442,0,Social,Spain,Win-back campaign within 7 days
+1602,Hibernating,1250,1,150,86.4,2,2,2,222,1,Social,Spain,Reactivation email series
+1603,Hibernating,1250,1,300,172.8,2,2,3,223,1,Other,Australia,Reactivation email series
+1604,At-Risk,677,2,690,397.44,3,4,4,344,0,Other,Italy,Win-back campaign within 7 days
+1605,Hibernating,1249,1,54,31.1,2,2,1,221,1,Social,USA,Reactivation email series
+1606,Hibernating,1249,1,90,51.84,2,2,1,221,1,Other,USA,Reactivation email series
+1607,Hibernating,1249,1,100,57.6,2,2,2,222,1,Search,Japan,Reactivation email series
+1608,Hibernating,1248,1,3000,1728.0,2,2,5,225,1,Social,China,Reactivation email series
+1609,Hibernating,1248,1,160,92.16,2,2,2,222,1,Social,India,Reactivation email series
+1610,At-Risk,456,2,175,101.01,4,4,2,442,0,Other,Italy,Win-back campaign within 7 days
+1611,At-Risk,407,2,450,260.28,4,4,3,443,0,Search,USA,Win-back campaign within 7 days
+1612,Hibernating,1244,1,40,23.14,2,2,1,221,1,Other,Spain,Reactivation email series
+1613,Hibernating,1244,1,360,208.22,2,2,3,223,1,Search,Canada,Reactivation email series
+1614,Hibernating,1243,1,100,57.84,2,2,2,222,1,Offline,Canada,Reactivation email series
+1615,At-Risk,621,2,555,321.68,3,4,4,344,0,Social,Canada,Win-back campaign within 7 days
+1616,Hibernating,1242,1,1600,929.28,2,2,4,224,1,Other,India,Reactivation email series
+1617,At-Risk,184,2,235,136.21,5,4,3,543,0,Social,Australia,Win-back campaign within 7 days
+1618,Hibernating,1240,1,70,40.66,2,2,1,221,1,Social,Italy,Reactivation email series
+1619,At-Risk,244,2,300,174.24,4,4,3,443,0,Offline,Spain,Win-back campaign within 7 days
+1620,At-Risk,168,2,1570,911.86,5,4,4,544,0,Other,USA,Win-back campaign within 7 days
+1621,Hibernating,1239,1,420,243.94,2,2,3,223,1,Social,Italy,Reactivation email series
+1622,Hibernating,1238,1,1500,871.2,2,2,4,224,1,Social,Italy,Reactivation email series
+1623,Promising,184,3,2410,1401.65,5,5,5,555,0,Social,Spain,Cross-sell — travel rewards / premium product
+1624,Hibernating,1235,1,420,244.94,2,2,3,223,1,Other,Spain,Reactivation email series
+1625,Hibernating,1234,1,105,61.24,2,2,2,222,1,Offline,Italy,Reactivation email series
+1626,Hibernating,1233,1,240,139.97,2,2,3,223,1,Search,Australia,Reactivation email series
+1627,At-Risk,129,2,600,350.64,5,4,4,544,0,Search,USA,Win-back campaign within 7 days
+1628,Hibernating,1232,1,500,292.8,2,2,4,224,1,Social,Spain,Reactivation email series
+1629,At-Risk,249,2,1700,993.48,4,4,4,444,0,Other,Japan,Win-back campaign within 7 days
+1630,Hibernating,1231,1,100,58.56,2,2,2,222,1,Social,Italy,Reactivation email series
+1631,Hibernating,1230,1,540,316.22,2,2,4,224,1,Social,Spain,Reactivation email series
+1632,Hibernating,1230,1,60,35.14,2,2,1,221,1,Offline,UK,Reactivation email series
+1633,Hibernating,1229,1,200,117.12,2,2,2,222,1,Social,Spain,Reactivation email series
+1634,Hibernating,1228,1,140,81.98,2,2,2,222,1,Social,China,Reactivation email series
+1635,Promising,75,3,1550,908.93,5,5,4,554,0,Social,Japan,Cross-sell — travel rewards / premium product
+1636,Hibernating,1228,1,240,140.54,2,2,3,223,1,Social,China,Reactivation email series
+1637,Hibernating,1227,1,500,292.8,2,2,4,224,1,Other,Canada,Reactivation email series
+1638,Champions,107,2,6200,3638.16,5,4,5,545,0,Social,Japan,Referral program + premium card upsell
+1639,Hibernating,1225,1,125,73.5,2,2,2,222,1,Offline,Canada,Reactivation email series
+1640,Hibernating,1223,1,400,235.2,2,2,3,223,1,Search,UK,Reactivation email series
+1641,At-Risk,367,2,3035,1788.22,4,4,5,445,0,Other,Canada,Win-back campaign within 7 days
+1642,Hibernating,1221,1,100,59.04,2,2,2,222,1,Social,Italy,Reactivation email series
+1643,Hibernating,1220,1,50,29.52,2,2,1,221,1,Social,India,Reactivation email series
+1644,Champions,1220,1,6000,3542.4,2,2,5,225,1,Social,UK,Referral program + premium card upsell
+1645,Hibernating,1219,1,3000,1771.2,2,2,5,225,1,Social,Australia,Reactivation email series
+1646,Hibernating,1217,1,100,59.28,2,2,2,222,1,Other,Spain,Reactivation email series
+1647,At-Risk,493,2,710,420.04,4,4,4,444,0,Social,India,Win-back campaign within 7 days
+1648,At-Risk,533,2,600,354.96,4,4,4,444,0,Social,Italy,Win-back campaign within 7 days
+1649,Hibernating,1216,1,70,41.5,2,2,1,221,1,Search,Australia,Reactivation email series
+1650,Hibernating,1216,1,360,213.41,2,2,3,223,1,Social,Australia,Reactivation email series
+1651,Hibernating,1216,1,200,118.56,2,2,2,222,1,Other,USA,Reactivation email series
+1652,At-Risk,71,2,375,222.75,5,4,3,543,0,Social,Canada,Win-back campaign within 7 days
+1653,Hibernating,1212,1,90,53.57,2,2,1,221,1,Social,Italy,Reactivation email series
+1654,At-Risk,34,2,43,25.54,5,4,1,541,0,Social,UK,Win-back campaign within 7 days
+1655,Champions,213,2,5300,3148.2,5,4,5,545,0,Social,UK,Referral program + premium card upsell
+1656,Hibernating,1212,1,120,71.42,2,2,2,222,1,Social,India,Reactivation email series
+1657,At-Risk,565,2,100,59.52,3,4,2,342,0,Social,Australia,Win-back campaign within 7 days
+1658,At-Risk,272,2,385,229.61,4,4,3,443,0,Search,Spain,Win-back campaign within 7 days
+1659,Hibernating,1207,1,90,53.78,2,2,1,221,1,Search,India,Reactivation email series
+1660,At-Risk,87,2,1705,1016.86,5,4,4,544,0,Other,USA,Win-back campaign within 7 days
+1661,Hibernating,1207,1,54,32.27,2,2,1,221,1,Social,Japan,Reactivation email series
+1662,At-Risk,485,2,870,519.91,4,4,4,444,0,Other,UK,Win-back campaign within 7 days
+1663,Hibernating,1206,1,200,119.52,2,2,2,222,1,Social,Canada,Reactivation email series
+1664,At-Risk,584,2,300,179.28,3,4,3,343,0,Social,India,Win-back campaign within 7 days
+1665,At-Risk,654,2,3350,2005.98,3,4,5,345,0,Search,China,Win-back campaign within 7 days
+1666,Hibernating,1203,1,420,250.99,2,2,3,223,1,Offline,Spain,Reactivation email series
+1667,At-Risk,206,2,690,414.0,5,4,4,544,0,Social,Japan,Win-back campaign within 7 days
+1668,Hibernating,1199,1,40,24.0,2,2,1,221,1,Offline,India,Reactivation email series
+1669,Hibernating,1197,1,90,54.22,2,2,1,221,1,Other,Canada,Reactivation email series
+1670,Hibernating,1195,1,3600,2168.64,2,2,5,225,1,Social,Australia,Reactivation email series
+1671,At-Risk,7,2,125,75.3,5,4,2,542,0,Social,China,Win-back campaign within 7 days
+1672,Hibernating,1195,1,350,210.84,2,2,3,223,1,Social,Japan,Reactivation email series
+1673,Hibernating,1194,1,4500,2710.8,2,2,5,225,1,Offline,India,Reactivation email series
+1674,Promising,104,4,459,277.05,5,5,4,554,0,Social,Italy,Cross-sell — travel rewards / premium product
+1675,Hibernating,1192,1,175,105.84,2,2,2,222,1,Other,UK,Reactivation email series
+1676,Hibernating,1192,1,1600,967.68,2,2,4,224,1,Other,Japan,Reactivation email series
+1677,Hibernating,1192,1,125,75.6,2,2,2,222,1,Social,Spain,Reactivation email series
+1678,Hibernating,1191,1,3000,1814.4,2,2,5,225,1,Other,USA,Reactivation email series
+1679,Champions,553,2,6180,3737.66,3,4,5,345,0,Social,Japan,Referral program + premium card upsell
+1680,Champions,559,2,6140,3720.84,3,4,5,345,0,Social,Japan,Referral program + premium card upsell
+1681,At-Risk,117,2,375,227.25,5,4,3,543,0,Social,China,Win-back campaign within 7 days
+1682,Hibernating,1187,1,100,60.72,2,2,2,222,1,Offline,Spain,Reactivation email series
+1683,Promising,460,3,2050,1243.11,4,5,5,455,0,Social,Spain,Cross-sell — travel rewards / premium product
+1684,At-Risk,368,2,500,303.0,4,4,4,444,0,Social,Australia,Win-back campaign within 7 days
+1685,At-Risk,212,2,2420,1466.52,5,4,5,545,0,Social,Japan,Win-back campaign within 7 days
+1686,Hibernating,1186,1,75,45.54,2,2,1,221,1,Search,Japan,Reactivation email series
+1687,Champions,123,3,10035,6093.25,5,5,5,555,0,Offline,Italy,Referral program + premium card upsell
+1688,Hibernating,1185,1,18,10.93,2,2,1,221,1,Offline,USA,Reactivation email series
+1689,Hibernating,1184,1,8,4.86,2,2,1,221,1,Search,Canada,Reactivation email series
+1690,Hibernating,1182,1,70,42.67,2,2,1,221,1,Other,USA,Reactivation email series
+1691,Hibernating,1180,1,35,21.34,2,2,1,221,1,Social,Spain,Reactivation email series
+1692,Promising,84,3,355,216.69,5,5,3,553,0,Other,Australia,Cross-sell — travel rewards / premium product
+1693,At-Risk,552,2,90,54.97,3,4,1,341,0,Search,Canada,Win-back campaign within 7 days
+1694,Hibernating,1178,1,40,24.48,2,2,1,221,1,Social,Italy,Reactivation email series
+1695,Hibernating,1177,1,450,275.4,2,2,3,223,1,Search,Spain,Reactivation email series
+1696,Hibernating,1175,1,250,153.0,2,2,3,223,1,Social,Italy,Reactivation email series
+1697,At-Risk,222,2,650,398.58,5,4,4,544,0,Social,China,Win-back campaign within 7 days
+1698,Hibernating,1174,1,300,184.32,2,2,3,223,1,Offline,Japan,Reactivation email series
+1699,Hibernating,1174,1,2000,1228.8,2,2,4,224,1,Search,UK,Reactivation email series
+1700,Hibernating,1174,1,90,55.3,2,2,1,221,1,Social,USA,Reactivation email series
+1701,At-Risk,472,2,137,84.34,4,4,2,442,0,Social,Australia,Win-back campaign within 7 days
+1702,Hibernating,1169,1,72,44.41,2,2,1,221,1,Search,Australia,Reactivation email series
+1703,Champions,207,3,4680,2886.62,5,5,5,555,0,Offline,Spain,Referral program + premium card upsell
+1704,Hibernating,1168,1,50,30.84,2,2,1,221,1,Social,Italy,Reactivation email series
+1705,Champions,113,4,7655,4717.01,5,5,5,555,0,Social,Spain,Referral program + premium card upsell
+1706,Hibernating,1168,1,54,33.31,2,2,1,221,1,Social,Australia,Reactivation email series
+1707,At-Risk,358,2,375,231.75,4,4,3,443,0,Social,Italy,Win-back campaign within 7 days
+1708,At-Risk,701,2,1690,1044.42,3,4,4,344,0,Offline,Australia,Win-back campaign within 7 days
+1709,Hibernating,1165,1,280,173.38,2,2,3,223,1,Social,Japan,Reactivation email series
+1710,At-Risk,129,2,400,247.2,5,4,3,543,0,Social,Australia,Win-back campaign within 7 days
+1711,Hibernating,1164,1,160,99.07,2,2,2,222,1,Other,India,Reactivation email series
+1712,Hibernating,1160,1,320,198.91,2,2,3,223,1,Offline,Australia,Reactivation email series
+1713,Hibernating,1156,1,250,156.0,2,2,3,223,1,Social,Canada,Reactivation email series
+1714,Hibernating,1156,1,120,74.88,2,2,2,222,1,Search,Australia,Reactivation email series
+1715,At-Risk,589,2,35,21.8,3,4,1,341,0,Social,Spain,Win-back campaign within 7 days
+1716,Hibernating,1155,1,50,31.2,2,2,1,221,1,Other,Spain,Reactivation email series
+1717,At-Risk,178,2,2175,1354.59,5,4,5,545,0,Social,Canada,Win-back campaign within 7 days
+1718,Promising,560,3,320,199.43,3,5,3,353,0,Social,Canada,Cross-sell — travel rewards / premium product
+1719,Hibernating,1153,1,120,74.88,2,2,2,222,1,Social,USA,Reactivation email series
+1720,Promising,67,3,840,524.83,5,5,4,554,0,Social,Italy,Cross-sell — travel rewards / premium product
+1721,Hibernating,1151,1,3600,2255.04,2,2,5,225,1,Social,Spain,Reactivation email series
+1722,Promising,167,3,495,309.67,5,5,4,554,0,Social,USA,Cross-sell — travel rewards / premium product
+1723,Hibernating,1151,1,1200,751.68,2,2,4,224,1,Social,India,Reactivation email series
+1724,Hibernating,1147,1,200,125.76,2,2,2,222,1,Social,India,Reactivation email series
+1725,Promising,113,3,615,386.71,5,5,4,554,0,Social,India,Cross-sell — travel rewards / premium product
+1726,At-Risk,150,2,2416,1522.08,5,4,5,545,0,Social,Australia,Win-back campaign within 7 days
+1727,Hibernating,1142,1,150,94.68,2,2,2,222,1,Social,India,Reactivation email series
+1728,Hibernating,1141,1,40,25.25,2,2,1,221,1,Social,UK,Reactivation email series
+1729,Promising,237,3,690,436.08,5,5,4,554,0,Search,Australia,Cross-sell — travel rewards / premium product
+1730,Promising,363,3,295,186.67,4,5,3,453,0,Social,China,Cross-sell — travel rewards / premium product
+1731,Hibernating,1134,1,400,254.4,2,2,3,223,1,Offline,UK,Reactivation email series
+1732,Hibernating,1134,1,8,5.09,2,2,1,221,1,Social,Spain,Reactivation email series
+1733,At-Risk,54,2,3100,1971.6,5,4,5,545,0,Social,Canada,Win-back campaign within 7 days
+1734,Promising,175,3,2300,1460.97,5,5,5,555,0,Search,Italy,Cross-sell — travel rewards / premium product
+1735,At-Risk,431,2,3240,2060.64,4,4,5,445,0,Social,Japan,Win-back campaign within 7 days
+1736,At-Risk,48,2,375,238.95,5,4,3,543,0,Social,Canada,Win-back campaign within 7 days
+1737,Hibernating,1130,1,150,95.4,2,2,2,222,1,Social,Spain,Reactivation email series
+1738,Hibernating,1130,1,105,66.78,2,2,2,222,1,Social,Canada,Reactivation email series
+1739,Champions,226,3,9374,5976.87,5,5,5,555,0,Social,Japan,Referral program + premium card upsell
+1740,At-Risk,315,2,365,232.58,4,4,3,443,0,Other,Canada,Win-back campaign within 7 days
+1741,At-Risk,171,2,170,108.53,5,4,2,542,0,Search,Canada,Win-back campaign within 7 days
+1742,Hibernating,1128,1,54,34.47,2,2,1,221,1,Social,Australia,Reactivation email series
+1743,Promising,169,3,578,369.46,5,5,4,554,0,Search,UK,Cross-sell — travel rewards / premium product
+1744,Hibernating,1126,1,500,319.2,2,2,4,224,1,Search,USA,Reactivation email series
+1745,Hibernating,1123,1,108,69.21,2,2,2,222,1,Social,Spain,Reactivation email series
+1746,At-Risk,173,2,270,173.34,5,4,3,543,0,Offline,Japan,Win-back campaign within 7 days
+1747,Hibernating,1122,1,350,224.28,2,2,3,223,1,Social,Australia,Reactivation email series
+1748,Hibernating,1120,1,105,67.54,2,2,2,222,1,Social,UK,Reactivation email series
+1749,Hibernating,1120,1,300,192.96,2,2,3,223,1,Offline,Canada,Reactivation email series
+1750,At-Risk,706,2,3105,1997.14,3,4,5,345,0,Social,USA,Win-back campaign within 7 days
+1751,Promising,380,3,1750,1125.59,4,5,4,454,0,Social,Canada,Cross-sell — travel rewards / premium product
+1752,At-Risk,251,2,375,241.65,4,4,3,443,0,Offline,Australia,Win-back campaign within 7 days
+1753,Hibernating,1116,1,200,129.12,2,2,2,222,1,Other,Japan,Reactivation email series
+1754,Champions,523,2,7500,4842.0,4,4,5,445,0,Social,Spain,Referral program + premium card upsell
+1755,Promising,306,3,1830,1184.38,4,5,4,454,0,Other,Canada,Cross-sell — travel rewards / premium product
+1756,Hibernating,1111,1,90,58.32,2,2,1,221,1,Social,UK,Reactivation email series
+1757,Hibernating,1111,1,175,113.4,2,2,2,222,1,Social,USA,Reactivation email series
+1758,Champions,627,2,5040,3271.97,3,4,5,345,0,Social,India,Referral program + premium card upsell
+1759,Hibernating,1110,1,20,12.96,2,2,1,221,1,Other,China,Reactivation email series
+1760,Promising,23,4,4798,3111.98,5,5,5,555,0,Search,Australia,Cross-sell — travel rewards / premium product
+1761,Hibernating,1110,1,210,136.08,2,2,2,222,1,Other,Italy,Reactivation email series
+1762,At-Risk,538,2,1900,1233.48,4,4,4,444,0,Social,Australia,Win-back campaign within 7 days
+1763,At-Risk,442,2,170,110.57,4,4,2,442,0,Social,Canada,Win-back campaign within 7 days
+1764,Champions,342,4,7615,4957.36,4,5,5,455,0,Search,India,Referral program + premium card upsell
+1765,Promising,28,5,1180,769.74,5,5,4,554,0,Other,India,Cross-sell — travel rewards / premium product
+1766,Hibernating,1102,1,150,97.92,2,2,2,222,1,Offline,India,Reactivation email series
+1767,Hibernating,1102,1,75,48.96,2,2,1,221,1,Social,USA,Reactivation email series
+1768,Hibernating,1100,1,175,114.66,2,2,2,222,1,Social,Australia,Reactivation email series
+1769,Hibernating,1100,1,2500,1638.0,2,2,5,225,1,Search,Spain,Reactivation email series
+1770,At-Risk,24,2,235,153.69,5,4,3,543,0,Social,Italy,Win-back campaign within 7 days
+1771,Hibernating,1099,1,1200,786.24,2,2,4,224,1,Other,India,Reactivation email series
+1772,At-Risk,653,2,316,207.04,3,4,3,343,0,Other,India,Win-back campaign within 7 days
+1773,Hibernating,1099,1,160,104.83,2,2,2,222,1,Search,India,Reactivation email series
+1774,Hibernating,1098,1,18,11.79,2,2,1,221,1,Social,Australia,Reactivation email series
+1775,Hibernating,1098,1,4500,2948.4,2,2,5,225,1,Social,Australia,Reactivation email series
+1776,Hibernating,1098,1,16,10.48,2,2,1,221,1,Other,USA,Reactivation email series
+1777,Hibernating,1097,1,60,39.31,2,2,1,221,1,Social,Italy,Reactivation email series
+1778,At-Risk,6,2,3240,2126.74,5,4,5,545,0,Offline,Canada,Win-back campaign within 7 days
+1779,Hibernating,1091,1,100,66.0,2,2,2,222,1,Social,India,Reactivation email series
+1780,Hibernating,1090,1,24,15.84,2,2,1,221,1,Social,China,Reactivation email series
+1781,At-Risk,208,2,250,165.0,5,4,3,543,0,Offline,Japan,Win-back campaign within 7 days
+1782,Hibernating,1090,1,360,237.6,2,2,3,223,1,Social,Japan,Reactivation email series
+1783,At-Risk,334,2,120,79.34,4,4,2,442,0,Social,China,Win-back campaign within 7 days
+1784,Champions,149,2,7300,4826.76,5,4,5,545,0,Social,Canada,Referral program + premium card upsell
+1785,Hibernating,1088,1,240,158.98,2,2,3,223,1,Social,Spain,Reactivation email series
+1786,Hibernating,1088,1,400,264.96,2,2,3,223,1,Search,India,Reactivation email series
+1787,Hibernating,1087,1,280,185.47,2,2,3,223,1,Search,UK,Reactivation email series
+1788,At-Risk,495,2,160,106.18,4,4,2,442,0,Social,UK,Win-back campaign within 7 days
+1789,At-Risk,325,2,470,311.89,4,4,4,444,0,Other,Australia,Win-back campaign within 7 days
+1790,Hibernating,1084,1,15,9.97,2,2,1,221,1,Social,India,Reactivation email series
+1791,Hibernating,1083,1,60,39.89,2,2,1,221,1,Social,China,Reactivation email series
+1792,At-Risk,565,2,56,37.23,3,4,1,341,0,Social,Canada,Win-back campaign within 7 days
+1793,Hibernating,1083,1,2000,1329.6,2,2,4,224,1,Social,USA,Reactivation email series
+1794,Promising,317,3,3545,2356.72,4,5,5,455,0,Social,Canada,Cross-sell — travel rewards / premium product
+1795,At-Risk,470,2,186,123.65,4,4,2,442,0,Offline,USA,Win-back campaign within 7 days
+1796,At-Risk,693,2,2800,1864.8,3,4,5,345,0,Social,India,Win-back campaign within 7 days
+1797,Hibernating,1081,1,420,280.22,2,2,3,223,1,Other,USA,Reactivation email series
+1798,Promising,287,3,1310,872.99,4,5,4,454,0,Offline,China,Cross-sell — travel rewards / premium product
+1799,Hibernating,1080,1,80,53.38,2,2,1,221,1,Offline,Australia,Reactivation email series
+1800,At-Risk,82,2,165,110.09,5,4,2,542,0,Other,Canada,Win-back campaign within 7 days
+1801,Hibernating,1077,1,210,140.62,2,2,2,222,1,Other,China,Reactivation email series
+1802,Hibernating,1076,1,400,267.84,2,2,3,223,1,Other,Italy,Reactivation email series
+1803,Hibernating,1076,1,25,16.74,2,2,1,221,1,Other,Spain,Reactivation email series
+1804,Hibernating,1076,1,2500,1674.0,2,2,5,225,1,Social,China,Reactivation email series
+1805,Hibernating,1076,1,100,66.96,2,2,2,222,1,Social,China,Reactivation email series
+1806,Promising,117,3,1348,904.77,5,5,4,554,0,Search,Spain,Cross-sell — travel rewards / premium product
+1807,At-Risk,341,2,460,309.12,4,4,4,444,0,Search,UK,Win-back campaign within 7 days
+1808,At-Risk,562,2,190,127.91,3,4,2,342,0,Search,India,Win-back campaign within 7 days
+1809,Hibernating,1066,1,270,182.09,2,2,3,223,1,Social,USA,Reactivation email series
+1810,Hibernating,1066,1,200,134.88,2,2,2,222,1,Search,Japan,Reactivation email series
+1811,Hibernating,1066,1,2000,1348.8,2,2,4,224,1,Social,USA,Reactivation email series
+1812,At-Risk,494,2,1400,945.84,4,4,4,444,0,Social,Spain,Win-back campaign within 7 days
+1813,Promising,332,3,640,432.63,4,5,4,454,0,Search,Australia,Cross-sell — travel rewards / premium product
+1814,At-Risk,332,2,137,92.56,4,4,2,442,0,Social,India,Win-back campaign within 7 days
+1815,At-Risk,208,2,222,150.25,5,4,2,542,0,Offline,Japan,Win-back campaign within 7 days
+1816,At-Risk,646,2,300,203.04,3,4,3,343,0,Other,India,Win-back campaign within 7 days
+1817,Champions,395,2,6100,4128.48,4,4,5,445,0,Search,China,Referral program + premium card upsell
+1818,Promising,571,3,275,186.35,3,5,3,353,0,Offline,Canada,Cross-sell — travel rewards / premium product
+1819,Hibernating,1063,1,200,135.36,2,2,2,222,1,Other,USA,Reactivation email series
+1820,Promising,231,3,374,253.43,5,5,3,553,0,Other,China,Cross-sell — travel rewards / premium product
+1821,Champions,1062,1,7500,5076.0,2,2,5,225,1,Social,Spain,Referral program + premium card upsell
+1822,Hibernating,1062,1,450,304.56,2,2,4,224,1,Offline,Spain,Reactivation email series
+1823,At-Risk,633,2,3150,2135.7,3,4,5,345,0,Offline,India,Win-back campaign within 7 days
+1824,Hibernating,1062,1,420,284.26,2,2,3,223,1,Other,China,Reactivation email series
+1825,Champions,121,3,6130,4163.49,5,5,5,555,0,Offline,Canada,Referral program + premium card upsell
+1826,Hibernating,1060,1,90,61.13,2,2,1,221,1,Social,Spain,Reactivation email series
+1827,At-Risk,10,2,140,95.26,5,4,2,542,0,Social,Spain,Win-back campaign within 7 days
+1828,Hibernating,1056,1,160,109.06,2,2,2,222,1,Social,Spain,Reactivation email series
+1829,Hibernating,1056,1,450,306.72,2,2,4,224,1,Search,Japan,Reactivation email series
+1830,Hibernating,1055,1,360,245.38,2,2,3,223,1,Social,India,Reactivation email series
+1831,Hibernating,1053,1,75,51.3,2,2,1,221,1,Other,Spain,Reactivation email series
+1832,At-Risk,144,2,375,256.5,5,4,3,543,0,Search,India,Win-back campaign within 7 days
+1833,Promising,10,3,400,273.91,5,5,3,553,0,Social,Japan,Cross-sell — travel rewards / premium product
+1834,At-Risk,210,2,180,123.12,5,4,2,542,0,Other,Canada,Win-back campaign within 7 days
+1835,At-Risk,211,2,2620,1795.22,5,4,5,545,0,Social,China,Win-back campaign within 7 days
+1836,Champions,494,3,7476,5125.55,4,5,5,455,0,Other,India,Referral program + premium card upsell
+1837,Hibernating,1048,1,80,54.91,2,2,1,221,1,Search,USA,Reactivation email series
+1838,At-Risk,439,2,150,103.14,4,4,2,442,0,Social,Italy,Win-back campaign within 7 days
+1839,Hibernating,1047,1,100,68.88,2,2,2,222,1,Social,China,Reactivation email series
+1840,At-Risk,481,2,1535,1057.31,4,4,4,444,0,Offline,China,Win-back campaign within 7 days
+1841,At-Risk,275,2,330,227.3,4,4,3,443,0,Other,India,Win-back campaign within 7 days
+1842,Promising,152,3,1373,945.73,5,5,4,554,0,Social,Australia,Cross-sell — travel rewards / premium product
+1843,Hibernating,1044,1,1500,1033.2,2,2,4,224,1,Other,Spain,Reactivation email series
+1844,At-Risk,574,2,280,193.2,3,4,3,343,0,Social,India,Win-back campaign within 7 days
+1845,At-Risk,258,2,750,517.5,4,4,4,444,0,Search,India,Win-back campaign within 7 days
+1846,At-Risk,588,2,400,276.0,3,4,3,343,0,Social,Japan,Win-back campaign within 7 days
+1847,Hibernating,1044,1,300,206.64,2,2,3,223,1,Other,Canada,Reactivation email series
+1848,Hibernating,1043,1,1500,1036.8,2,2,4,224,1,Offline,India,Reactivation email series
+1849,Promising,520,3,556,383.86,4,5,4,454,0,Social,India,Cross-sell — travel rewards / premium product
+1850,Hibernating,1042,1,1500,1036.8,2,2,4,224,1,Offline,Canada,Reactivation email series
+1851,Hibernating,1042,1,35,24.19,2,2,1,221,1,Other,Canada,Reactivation email series
+1852,Hibernating,1041,1,200,138.24,2,2,2,222,1,Other,Australia,Reactivation email series
+1853,At-Risk,240,2,325,224.64,4,4,3,443,0,Other,India,Win-back campaign within 7 days
+1854,Champions,240,2,4625,3202.35,4,4,5,445,0,Other,Canada,Referral program + premium card upsell
+1855,At-Risk,172,2,330,228.49,5,4,3,543,0,Social,China,Win-back campaign within 7 days
+1856,Hibernating,1038,1,18,12.48,2,2,1,221,1,Social,Australia,Reactivation email series
+1857,Hibernating,1038,1,160,110.98,2,2,2,222,1,Search,India,Reactivation email series
+1858,At-Risk,231,2,525,365.4,5,4,4,544,0,Social,UK,Win-back campaign within 7 days
+1859,At-Risk,685,2,175,121.8,3,4,2,342,0,Offline,India,Win-back campaign within 7 days
+1860,At-Risk,650,2,2240,1564.42,3,4,5,345,0,Social,China,Win-back campaign within 7 days
+1861,Hibernating,1031,1,450,314.28,2,2,4,224,1,Search,Japan,Reactivation email series
+1862,Hibernating,1031,1,3000,2095.2,2,2,5,225,1,Social,USA,Reactivation email series
+1863,At-Risk,240,2,720,502.85,4,4,4,444,0,Search,Spain,Win-back campaign within 7 days
+1864,Hibernating,1030,1,125,87.3,2,2,2,222,1,Offline,UK,Reactivation email series
+1865,Promising,512,3,420,293.66,4,5,3,453,0,Search,Italy,Cross-sell — travel rewards / premium product
+1866,At-Risk,178,2,2420,1693.03,5,4,5,545,0,Offline,Australia,Win-back campaign within 7 days
+1867,Champions,529,2,6075,4250.07,4,4,5,445,0,Social,Canada,Referral program + premium card upsell
+1868,Hibernating,1029,1,45,31.54,2,2,1,221,1,Offline,India,Reactivation email series
+1869,At-Risk,385,2,210,147.17,4,4,2,442,0,Search,USA,Win-back campaign within 7 days
+1870,Hibernating,1027,1,54,37.84,2,2,1,221,1,Other,China,Reactivation email series
+1871,At-Risk,31,2,3840,2700.29,5,4,5,545,0,Social,Australia,Win-back campaign within 7 days
+1872,At-Risk,503,2,1650,1160.28,4,4,4,444,0,Social,Japan,Win-back campaign within 7 days
+1873,Champions,625,2,6540,4598.93,3,4,5,345,0,Social,India,Referral program + premium card upsell
+1874,Hibernating,1023,1,105,73.84,2,2,2,222,1,Search,UK,Reactivation email series
+1875,At-Risk,730,2,165,116.23,3,4,2,342,0,Offline,Japan,Win-back campaign within 7 days
+1876,Hibernating,1022,1,240,169.34,2,2,3,223,1,Social,UK,Reactivation email series
+1877,At-Risk,19,2,380,268.13,5,4,3,543,0,Social,Canada,Win-back campaign within 7 days
+1878,Promising,75,3,680,480.36,5,5,4,554,0,Social,China,Cross-sell — travel rewards / premium product
+1879,Hibernating,1018,1,540,382.32,2,2,4,224,1,Social,Spain,Reactivation email series
+1880,Hibernating,1018,1,600,424.8,2,2,4,224,1,Social,Canada,Reactivation email series
+1881,Hibernating,1015,1,32,22.73,2,2,1,221,1,Social,UK,Reactivation email series
+1882,Hibernating,1015,1,300,213.12,2,2,3,223,1,Offline,Spain,Reactivation email series
+1883,Hibernating,1013,1,150,106.56,2,2,2,222,1,Social,India,Reactivation email series
+1884,At-Risk,490,2,645,458.21,4,4,4,444,0,Search,Canada,Win-back campaign within 7 days
+1885,At-Risk,77,2,41,29.13,5,4,1,541,0,Other,Italy,Win-back campaign within 7 days
+1886,At-Risk,600,2,1218,866.73,3,4,4,344,0,Social,Australia,Win-back campaign within 7 days
+1887,At-Risk,350,2,1750,1249.5,4,4,4,444,0,Social,China,Win-back campaign within 7 days
+1888,At-Risk,539,2,225,160.92,3,4,2,342,0,Social,Japan,Win-back campaign within 7 days
+1889,Hibernating,1004,1,105,75.35,2,2,2,222,1,Search,Canada,Reactivation email series
+1890,At-Risk,599,2,1175,844.59,3,4,4,344,0,Search,Italy,Win-back campaign within 7 days
+1891,At-Risk,586,2,1635,1179.16,3,4,4,344,0,Other,Spain,Win-back campaign within 7 days
+1892,Champions,999,1,9000,6480.0,2,2,5,225,1,Social,Italy,Referral program + premium card upsell
+1893,Champions,563,2,7675,5535.21,3,4,5,345,0,Offline,USA,Referral program + premium card upsell
+1894,At-Risk,212,2,2032,1465.48,5,4,5,545,0,Search,China,Win-back campaign within 7 days
+1895,Champions,51,4,7905,5701.09,5,5,5,555,0,Social,Japan,Referral program + premium card upsell
+1896,Hibernating,997,1,90,65.02,2,2,1,221,1,Social,Canada,Reactivation email series
+1897,Champions,84,2,7260,5253.34,5,4,5,545,0,Search,China,Referral program + premium card upsell
+1898,Hibernating,994,1,100,72.48,2,2,2,222,1,Offline,Australia,Reactivation email series
+1899,Hibernating,992,1,1200,869.76,2,2,4,224,1,Offline,Australia,Reactivation email series
+1900,Promising,567,3,530,384.58,3,5,4,354,0,Social,USA,Cross-sell — travel rewards / premium product
+1901,Hibernating,991,1,70,50.9,2,2,1,221,1,Offline,Canada,Reactivation email series
+1902,At-Risk,165,2,350,254.94,5,4,3,543,0,Social,Italy,Win-back campaign within 7 days
+1903,Hibernating,988,1,72,52.53,2,2,1,221,1,Other,Australia,Reactivation email series
+1904,Hibernating,988,1,70,51.07,2,2,1,221,1,Social,Spain,Reactivation email series
+1905,Promising,548,4,3188,2324.05,3,5,5,355,0,Social,UK,Cross-sell — travel rewards / premium product
+1906,Champions,12,2,6270,4574.59,5,4,5,545,0,Search,UK,Referral program + premium card upsell
+1907,Promising,160,3,258,188.24,5,5,3,553,0,Social,UK,Cross-sell — travel rewards / premium product
+1908,Hibernating,987,1,32,23.35,2,2,1,221,1,Social,China,Reactivation email series
+1909,At-Risk,432,2,3036,2218.71,4,4,5,445,0,Other,Canada,Win-back campaign within 7 days
+1910,Hibernating,985,1,32,23.42,2,2,1,221,1,Other,Canada,Reactivation email series
+1911,At-Risk,366,2,310,226.92,4,4,3,443,0,Social,USA,Win-back campaign within 7 days
+1912,At-Risk,397,2,1220,893.04,4,4,4,444,0,Search,Italy,Win-back campaign within 7 days
+1913,Hibernating,983,1,210,153.72,2,2,2,222,1,Search,India,Reactivation email series
+1914,Hibernating,983,1,1200,878.4,2,2,4,224,1,Other,China,Reactivation email series
+1915,Hibernating,982,1,2000,1464.0,2,2,4,224,1,Social,USA,Reactivation email series
+1916,Champions,981,1,6000,4406.4,2,2,5,225,1,Offline,Canada,Referral program + premium card upsell
+1917,Promising,453,3,2440,1795.83,4,5,5,455,0,Other,USA,Cross-sell — travel rewards / premium product
+1918,At-Risk,616,2,300,220.68,3,4,3,343,0,Social,India,Win-back campaign within 7 days
+1919,At-Risk,708,2,130,95.78,3,4,2,342,0,Search,USA,Win-back campaign within 7 days
+1920,Hibernating,977,1,2400,1768.32,2,2,5,225,1,Offline,Japan,Reactivation email series
+1921,Hibernating,976,1,90,66.31,2,2,1,221,1,Other,USA,Reactivation email series
+1922,Promising,214,4,710,524.41,5,5,4,554,0,Social,Japan,Cross-sell — travel rewards / premium product
+1923,Hibernating,975,1,150,110.88,2,2,2,222,1,Other,Canada,Reactivation email series
+1924,Hibernating,974,1,2400,1774.08,2,2,5,225,1,Offline,Canada,Reactivation email series
+1925,At-Risk,612,2,3210,2372.83,3,4,5,345,0,Social,Spain,Win-back campaign within 7 days
+1926,Champions,604,2,4770,3531.71,3,4,5,345,0,Other,Spain,Referral program + premium card upsell
+1927,Hibernating,972,1,50,37.08,2,2,1,221,1,Offline,Spain,Reactivation email series
+1928,Promising,125,3,2810,2083.9,5,5,5,555,0,Offline,Japan,Cross-sell — travel rewards / premium product
+1929,At-Risk,635,2,123,91.51,3,4,2,342,0,Other,Japan,Win-back campaign within 7 days
+1930,Hibernating,968,1,40,29.76,2,2,1,221,1,Other,Spain,Reactivation email series
+1931,Hibernating,968,1,18,13.39,2,2,1,221,1,Offline,China,Reactivation email series
+1932,Hibernating,967,1,3000,2232.0,2,3,5,235,1,Social,USA,Reactivation email series
+1933,Promising,18,3,384,286.0,5,5,3,553,0,Search,Australia,Cross-sell — travel rewards / premium product
+1934,At-Risk,452,2,480,358.27,4,4,4,444,0,Social,India,Win-back campaign within 7 days
+1935,Promising,178,3,2735,2045.79,5,5,5,555,0,Other,Italy,Cross-sell — travel rewards / premium product
+1936,Hibernating,963,1,175,131.04,3,3,2,332,0,Social,UK,Reactivation email series
+1937,Hibernating,963,1,175,131.04,3,3,2,332,0,Search,India,Reactivation email series
+1938,Hibernating,962,1,300,224.64,3,3,3,333,0,Other,China,Reactivation email series
+1939,At-Risk,464,2,525,393.12,4,4,4,444,0,Search,USA,Win-back campaign within 7 days
+1940,Hibernating,962,1,1200,898.56,3,3,4,334,0,Social,India,Reactivation email series
+1941,Hibernating,961,1,210,157.25,3,3,2,332,0,Social,Australia,Reactivation email series
+1942,At-Risk,474,2,195,146.02,4,4,2,442,0,Search,China,Win-back campaign within 7 days
+1943,Promising,223,3,340,255.13,5,5,3,553,0,Social,Spain,Cross-sell — travel rewards / premium product
+1944,Champions,217,3,5025,3770.76,5,5,5,555,0,Other,Japan,Referral program + premium card upsell
+1945,Hibernating,959,1,120,90.14,3,3,2,332,0,Other,India,Reactivation email series
+1946,Champions,958,1,4800,3605.76,3,3,5,335,0,Social,USA,Referral program + premium card upsell
+1947,Promising,201,3,2670,2009.98,5,5,5,555,0,Other,UK,Cross-sell — travel rewards / premium product
+1948,At-Risk,148,2,1635,1232.14,5,4,4,544,0,Offline,India,Win-back campaign within 7 days
+1949,Hibernating,955,1,105,79.13,3,3,2,332,0,Social,India,Reactivation email series
+1950,Hibernating,955,1,150,113.04,3,3,2,332,0,Other,Australia,Reactivation email series
+1951,At-Risk,260,2,240,181.15,4,4,3,443,0,Other,Italy,Win-back campaign within 7 days
+1952,Promising,22,4,600,453.24,5,5,4,554,0,Search,UK,Cross-sell — travel rewards / premium product
+1953,Hibernating,953,1,210,158.76,3,3,2,332,0,Social,Spain,Reactivation email series
+1954,Hibernating,952,1,90,68.04,3,3,1,331,0,Search,Italy,Reactivation email series
+1955,Promising,92,3,242,183.15,5,5,3,553,0,Social,Japan,Cross-sell — travel rewards / premium product
+1956,Hibernating,951,1,35,26.46,3,3,1,331,0,Social,UK,Reactivation email series
+1957,At-Risk,500,2,2470,1870.28,4,4,5,445,0,Social,India,Win-back campaign within 7 days
+1958,Hibernating,951,1,1500,1134.0,3,3,4,334,0,Other,Japan,Reactivation email series
+1959,Champions,951,1,6000,4536.0,3,3,5,335,0,Social,Japan,Referral program + premium card upsell
+1960,Hibernating,950,1,300,227.52,3,3,3,333,0,Offline,Canada,Reactivation email series
+1961,Hibernating,948,1,150,113.76,3,3,2,332,0,Search,Italy,Reactivation email series
+1962,Hibernating,944,1,50,38.16,3,3,1,331,0,Social,India,Reactivation email series
+1963,Hibernating,944,1,80,61.06,3,3,1,331,0,Social,Japan,Reactivation email series
+1964,Hibernating,944,1,800,610.56,3,3,4,334,0,Social,Australia,Reactivation email series
+1965,Promising,432,3,390,297.65,4,5,3,453,0,Social,Canada,Cross-sell — travel rewards / premium product
+1966,At-Risk,10,2,90,68.8,5,4,1,541,0,Social,Canada,Win-back campaign within 7 days
+1967,Hibernating,941,1,25,19.14,3,3,1,331,0,Social,China,Reactivation email series
+1968,Promising,253,3,240,183.55,4,5,3,453,0,Social,Canada,Cross-sell — travel rewards / premium product
+1969,Champions,281,2,9210,7051.18,4,4,5,445,0,Social,India,Referral program + premium card upsell
+1970,Hibernating,939,1,90,68.9,3,3,1,331,0,Other,Australia,Reactivation email series
+1971,Champions,938,1,7200,5529.6,3,3,5,335,0,Other,China,Referral program + premium card upsell
+1972,Hibernating,937,1,270,207.36,3,3,3,333,0,Offline,Canada,Reactivation email series
+1973,Hibernating,936,1,48,36.98,3,3,1,331,0,Social,Canada,Reactivation email series
+1974,Promising,389,3,840,646.46,4,5,4,454,0,Offline,Canada,Cross-sell — travel rewards / premium product
+1975,Hibernating,936,1,1200,924.48,3,3,4,334,0,Social,UK,Reactivation email series
+1976,Hibernating,935,1,100,77.04,3,3,2,332,0,Offline,Australia,Reactivation email series
+1977,Hibernating,935,1,240,184.9,3,3,3,333,0,Other,Japan,Reactivation email series
+1978,Promising,16,4,2230,1719.33,5,5,5,555,0,Social,UK,Cross-sell — travel rewards / premium product
+1979,Hibernating,934,1,400,308.16,3,3,3,333,0,Other,India,Reactivation email series
+1980,At-Risk,329,2,64,49.38,4,4,1,441,0,Social,Spain,Win-back campaign within 7 days
+1981,At-Risk,550,2,1680,1298.3,3,4,4,344,0,Social,Japan,Win-back campaign within 7 days
+1982,Hibernating,932,1,75,57.96,3,3,1,331,0,Other,Italy,Reactivation email series
+1983,Promising,38,4,2152,1664.36,5,5,5,555,0,Offline,USA,Cross-sell — travel rewards / premium product
+1984,Hibernating,929,1,70,54.26,3,3,1,331,0,Social,Italy,Reactivation email series
+1985,Hibernating,929,1,3600,2790.72,3,3,5,335,0,Social,Japan,Reactivation email series
+1986,Hibernating,928,1,75,58.14,3,3,1,331,0,Search,Japan,Reactivation email series
+1987,Hibernating,926,1,120,93.31,3,3,2,332,0,Search,Australia,Reactivation email series
+1988,At-Risk,418,2,340,264.79,4,4,3,443,0,Social,Italy,Win-back campaign within 7 days
+1989,Hibernating,923,1,35,27.3,3,3,1,331,0,Search,Spain,Reactivation email series
+1990,Champions,334,2,9600,7488.0,4,4,5,445,0,Social,India,Referral program + premium card upsell
+1991,Hibernating,919,1,72,56.33,3,3,1,331,0,Social,India,Reactivation email series
+1992,Promising,22,3,2350,1844.27,5,5,5,555,0,Search,Canada,Cross-sell — travel rewards / premium product
+1993,Promising,360,4,4180,3285.48,4,5,5,455,0,Social,Italy,Cross-sell — travel rewards / premium product
+1994,Hibernating,914,1,350,275.52,3,3,3,333,0,Other,Australia,Reactivation email series
+1995,Champions,164,2,6600,5195.52,5,4,5,545,0,Social,Italy,Referral program + premium card upsell
+1996,Promising,22,3,440,347.08,5,5,3,553,0,Social,Australia,Cross-sell — travel rewards / premium product
+1997,Hibernating,911,1,105,82.91,3,3,2,332,0,Social,UK,Reactivation email series
+1998,Hibernating,910,1,75,59.4,3,3,1,331,0,Social,Canada,Reactivation email series
+1999,Hibernating,910,1,240,190.08,3,3,3,333,0,Social,USA,Reactivation email series
+2000,Hibernating,909,1,300,237.6,3,3,3,333,0,Offline,Australia,Reactivation email series
+2001,At-Risk,695,2,1550,1233.18,3,4,4,344,0,Offline,Italy,Win-back campaign within 7 days
+2002,Hibernating,905,1,108,85.8,3,3,2,332,0,Other,UK,Reactivation email series
+2003,Hibernating,904,1,32,25.5,3,3,1,331,0,Offline,Spain,Reactivation email series
+2004,At-Risk,384,2,130,103.58,4,4,2,442,0,Social,Japan,Win-back campaign within 7 days
+2005,Hibernating,900,1,500,399.6,3,3,4,334,0,Social,USA,Reactivation email series
+2006,Promising,435,3,235,188.18,4,5,3,453,0,Social,Canada,Cross-sell — travel rewards / premium product
+2007,Promising,182,4,2715,2174.72,5,5,5,555,0,Social,Canada,Cross-sell — travel rewards / premium product
+2008,At-Risk,373,2,210,168.34,4,4,2,442,0,Social,UK,Win-back campaign within 7 days
+2009,At-Risk,250,2,44,35.27,4,4,1,441,0,Offline,USA,Win-back campaign within 7 days
+2010,Promising,307,3,320,256.78,4,5,3,453,0,Social,Canada,Cross-sell — travel rewards / premium product
+2011,At-Risk,32,2,325,260.91,5,4,3,543,0,Social,USA,Win-back campaign within 7 days
+2012,At-Risk,274,2,555,446.22,4,4,4,444,0,Social,India,Win-back campaign within 7 days
+2013,Hibernating,895,1,35,28.14,3,3,1,331,0,Social,USA,Reactivation email series
+2014,At-Risk,60,2,107,86.16,5,4,2,542,0,Offline,Italy,Win-back campaign within 7 days
+2015,At-Risk,292,2,66,53.14,4,4,1,441,0,Social,Spain,Win-back campaign within 7 days
+2016,Hibernating,894,1,50,40.32,3,3,1,331,0,Social,Canada,Reactivation email series
+2017,Champions,257,3,4785,3858.62,4,5,5,455,0,Offline,USA,Referral program + premium card upsell
+2018,At-Risk,372,2,51,41.19,4,4,1,441,0,Other,China,Win-back campaign within 7 days
+2019,Hibernating,891,1,125,101.1,3,3,2,332,0,Offline,Japan,Reactivation email series
+2020,At-Risk,533,2,516,416.72,4,4,4,444,0,Social,UK,Win-back campaign within 7 days
+2021,Hibernating,891,1,150,121.32,3,3,2,332,0,Social,China,Reactivation email series
+2022,Promising,41,3,2820,2280.82,5,5,5,555,0,Offline,Italy,Cross-sell — travel rewards / premium product
+2023,Hibernating,890,1,200,161.76,3,3,2,332,0,Social,Japan,Reactivation email series
+2024,Promising,137,3,430,348.81,5,5,3,553,0,Social,UK,Cross-sell — travel rewards / premium product
+2025,At-Risk,83,2,3400,2758.08,5,4,5,545,0,Social,Australia,Win-back campaign within 7 days
+2026,Hibernating,887,1,75,60.84,3,3,1,331,0,Social,Spain,Reactivation email series
+2027,At-Risk,474,2,1860,1511.06,4,4,4,444,0,Social,Japan,Win-back campaign within 7 days
+2028,At-Risk,405,2,180,146.66,4,4,2,442,0,Other,UK,Win-back campaign within 7 days
+2029,Hibernating,883,1,210,171.36,3,3,2,332,0,Social,Australia,Reactivation email series
+2030,Hibernating,881,1,50,40.92,3,3,1,331,0,Other,Italy,Reactivation email series
+2031,Hibernating,881,1,75,61.38,3,3,1,331,0,Social,Japan,Reactivation email series
+2032,At-Risk,288,2,1070,876.97,4,4,4,444,0,Offline,UK,Win-back campaign within 7 days
+2033,Promising,548,3,335,274.71,3,5,3,353,0,Social,Australia,Cross-sell — travel rewards / premium product
+2034,Champions,159,3,9024,7414.12,5,5,5,555,0,Social,Italy,Referral program + premium card upsell
+2035,Hibernating,876,1,36,29.55,3,3,1,331,0,Search,Japan,Reactivation email series
+2036,Promising,395,3,455,373.84,4,5,4,454,0,Social,Australia,Cross-sell — travel rewards / premium product
+2037,Champions,274,3,4920,4050.14,4,5,5,455,0,Social,Canada,Referral program + premium card upsell
+2038,Promising,418,3,220,181.27,4,5,2,452,0,Social,Italy,Cross-sell — travel rewards / premium product
+2039,Hibernating,874,1,100,82.32,3,3,2,332,0,Other,Australia,Reactivation email series
+2040,At-Risk,504,2,198,162.99,4,5,2,452,0,Search,Canada,Win-back campaign within 7 days
+2041,At-Risk,133,2,315,259.69,5,5,3,553,0,Social,Japan,Win-back campaign within 7 days
+2042,Hibernating,873,1,108,89.16,3,3,2,332,0,Social,UK,Reactivation email series
+2043,At-Risk,309,2,3072,2536.24,4,5,5,455,0,Social,Italy,Win-back campaign within 7 days
+2044,Champions,871,1,6000,4953.6,3,3,5,335,0,Social,Japan,Referral program + premium card upsell
+2045,At-Risk,647,2,500,413.4,3,5,4,354,0,Social,Canada,Win-back campaign within 7 days
+2046,Hibernating,870,1,24,19.87,3,3,1,331,0,Social,Italy,Reactivation email series
+2047,Hibernating,870,1,75,62.1,3,3,1,331,0,Search,India,Reactivation email series
+2048,At-Risk,455,2,340,281.52,4,5,3,453,0,Other,Italy,Win-back campaign within 7 days
+2049,Hibernating,867,1,100,83.04,3,3,2,332,0,Other,Spain,Reactivation email series
+2050,Hibernating,867,1,90,74.74,3,3,1,331,0,Other,India,Reactivation email series
+2051,Hibernating,867,1,270,224.21,3,3,3,333,0,Search,Japan,Reactivation email series
+2052,At-Risk,343,2,200,166.32,4,5,2,452,0,Search,UK,Win-back campaign within 7 days
+2053,Hibernating,865,1,360,299.81,3,3,3,333,0,Search,Japan,Reactivation email series
+2054,Hibernating,864,1,45,37.48,3,3,1,331,0,Search,USA,Reactivation email series
+2055,Hibernating,864,1,450,374.76,3,3,4,334,0,Offline,Italy,Reactivation email series
+2056,Hibernating,863,1,200,167.04,3,3,2,332,0,Search,USA,Reactivation email series
+2057,Hibernating,862,1,4500,3758.4,3,3,5,335,0,Offline,Italy,Reactivation email series
+2058,Champions,58,3,4851,4055.44,5,5,5,555,0,Social,Italy,Referral program + premium card upsell
+2059,Champions,861,1,6000,5011.2,3,3,5,335,0,Other,Australia,Referral program + premium card upsell
+2060,Hibernating,861,1,30,25.06,3,3,1,331,0,Social,Australia,Reactivation email series
+2061,Hibernating,858,1,250,210.0,3,3,3,333,0,Social,Spain,Reactivation email series
+2062,At-Risk,170,2,215,180.34,5,5,2,552,0,Social,India,Win-back campaign within 7 days
+2063,Hibernating,856,1,100,84.0,3,3,2,332,0,Search,USA,Reactivation email series
+2064,Champions,203,3,7770,6545.45,5,5,5,555,0,Social,Italy,Referral program + premium card upsell
+2065,At-Risk,427,2,1180,995.45,4,5,4,454,0,Social,Canada,Win-back campaign within 7 days
+2066,Hibernating,853,1,2500,2112.0,3,3,5,335,0,Search,UK,Reactivation email series
+2067,At-Risk,577,2,1360,1147.3,3,5,4,354,0,Other,Japan,Win-back campaign within 7 days
+2068,At-Risk,717,2,310,261.89,3,5,3,353,0,Social,Japan,Win-back campaign within 7 days
+2069,Hibernating,852,1,2000,1689.6,3,3,4,334,0,Social,Italy,Reactivation email series
+2070,Hibernating,852,1,420,354.82,3,3,3,333,0,Social,UK,Reactivation email series
+2071,At-Risk,400,2,345,291.87,4,5,3,453,0,Other,Japan,Win-back campaign within 7 days
+2072,At-Risk,462,2,280,237.22,4,5,3,453,0,Social,India,Win-back campaign within 7 days
+2073,At-Risk,270,2,270,229.07,4,5,3,453,0,Social,Canada,Win-back campaign within 7 days
+2074,Hibernating,848,1,160,135.94,3,3,2,332,0,Search,UK,Reactivation email series
+2075,Hibernating,847,1,160,135.94,3,3,2,332,0,Social,India,Reactivation email series
+2076,Champions,505,2,4000,3403.2,4,5,5,455,0,Social,USA,Referral program + premium card upsell
+2077,Hibernating,842,1,75,64.08,3,3,1,331,0,Social,UK,Reactivation email series
+2078,At-Risk,394,2,500,428.4,4,5,4,454,0,Search,Italy,Win-back campaign within 7 days
+2079,Champions,694,3,9120,7814.02,3,5,5,355,0,Social,USA,Referral program + premium card upsell
+2080,Hibernating,840,1,2400,2056.32,3,3,5,335,0,Search,Canada,Reactivation email series
+2081,At-Risk,237,2,555,475.52,4,5,4,454,0,Other,UK,Win-back campaign within 7 days
+2082,Hibernating,839,1,1200,1031.04,3,3,4,334,0,Other,China,Reactivation email series
+2083,Champions,608,2,4100,3527.64,3,5,5,355,0,Offline,India,Referral program + premium card upsell
+2084,Promising,109,3,680,585.9,5,5,4,554,0,Social,China,Cross-sell — travel rewards / premium product
+2085,At-Risk,565,2,2210,1906.79,3,5,5,355,0,Search,Spain,Win-back campaign within 7 days
+2086,Hibernating,835,1,175,150.78,3,3,2,332,0,Offline,Canada,Reactivation email series
+2087,Promising,461,3,420,362.54,4,5,3,453,0,Social,Spain,Cross-sell — travel rewards / premium product
+2088,At-Risk,543,2,335,289.04,3,5,3,353,0,Other,Italy,Win-back campaign within 7 days
+2089,Hibernating,833,1,1500,1296.0,3,3,4,334,0,Social,Canada,Reactivation email series
+2090,Hibernating,833,1,35,30.24,3,3,1,331,0,Offline,USA,Reactivation email series
+2091,Hibernating,832,1,54,46.79,3,3,1,331,0,Other,India,Reactivation email series
+2092,At-Risk,704,2,1640,1418.93,3,5,4,354,0,Offline,UK,Win-back campaign within 7 days
+2093,Hibernating,831,1,2000,1732.8,3,3,4,334,0,Other,Australia,Reactivation email series
+2094,At-Risk,187,2,1245,1083.15,5,5,4,554,0,Social,Australia,Win-back campaign within 7 days
+2095,Promising,432,3,2129,1851.39,4,5,5,455,0,Other,Italy,Cross-sell — travel rewards / premium product
+2096,At-Risk,458,2,330,287.1,4,5,3,453,0,Social,Canada,Win-back campaign within 7 days
+2097,At-Risk,75,2,3024,2638.14,5,5,5,555,0,Social,China,Win-back campaign within 7 days
+2098,Promising,138,3,915,799.34,5,5,4,554,0,Search,Spain,Cross-sell — travel rewards / premium product
+2099,Hibernating,823,1,150,131.4,3,3,2,332,0,Social,USA,Reactivation email series
+2100,Hibernating,822,1,50,43.8,3,3,1,331,0,Social,Spain,Reactivation email series
+2101,Hibernating,821,1,45,39.42,3,3,1,331,0,Search,Italy,Reactivation email series
+2102,At-Risk,287,2,75,65.97,4,5,1,451,0,Social,India,Win-back campaign within 7 days
+2103,At-Risk,155,2,325,285.87,5,5,3,553,0,Social,India,Win-back campaign within 7 days
+2104,Hibernating,818,1,60,52.85,3,3,1,331,0,Offline,India,Reactivation email series
+2105,Hibernating,814,1,30,26.57,3,3,1,331,0,Social,Spain,Reactivation email series
+2106,At-Risk,363,2,208,183.96,4,5,2,452,0,Other,Canada,Win-back campaign within 7 days
+2107,At-Risk,511,2,400,354.24,4,5,3,453,0,Offline,Australia,Win-back campaign within 7 days
+2108,Champions,426,2,9200,8147.52,4,5,5,455,0,Other,Italy,Referral program + premium card upsell
+2109,At-Risk,107,2,260,230.88,5,5,3,553,0,Social,Australia,Win-back campaign within 7 days
+2110,Hibernating,811,1,210,186.48,3,3,2,332,0,Search,Australia,Reactivation email series
+2111,Promising,97,3,210,186.65,5,5,2,552,0,Social,Canada,Cross-sell — travel rewards / premium product
+2112,Promising,410,3,2547,2263.77,4,5,5,455,0,Social,India,Cross-sell — travel rewards / premium product
+2113,At-Risk,143,2,400,356.64,5,5,3,553,0,Other,China,Win-back campaign within 7 days
+2114,Promising,90,3,165,147.05,5,5,2,552,0,Search,India,Cross-sell — travel rewards / premium product
+2115,Hibernating,805,1,80,71.62,3,3,1,331,0,Social,India,Reactivation email series
+2116,At-Risk,304,2,400,357.6,4,5,3,453,0,Search,India,Win-back campaign within 7 days
+2117,Champions,804,1,7200,6445.44,3,3,5,335,0,Social,China,Referral program + premium card upsell
+2118,Hibernating,804,1,160,143.23,3,3,2,332,0,Social,Australia,Reactivation email series
+2119,At-Risk,10,2,340,304.78,5,5,3,553,0,Social,Japan,Win-back campaign within 7 days
+2120,Hibernating,803,1,3000,2692.8,3,3,5,335,0,Other,Australia,Reactivation email series
+2121,Hibernating,800,1,200,180.0,3,3,2,332,0,Social,China,Reactivation email series
+2122,At-Risk,578,2,255,230.11,3,5,3,353,0,Other,Australia,Win-back campaign within 7 days
+2123,Hibernating,797,1,90,81.22,3,3,1,331,0,Search,Japan,Reactivation email series
+2124,Promising,492,4,2610,2361.53,4,5,5,455,0,Social,Spain,Cross-sell — travel rewards / premium product
+2125,Promising,233,4,460,416.21,5,5,4,554,0,Search,China,Cross-sell — travel rewards / premium product
+2126,Promising,164,3,560,506.7,5,5,4,554,0,Offline,UK,Cross-sell — travel rewards / premium product
+2127,Hibernating,796,1,50,45.24,3,3,1,331,0,Search,Japan,Reactivation email series
+2128,At-Risk,135,2,270,244.3,5,5,3,553,0,Social,Italy,Win-back campaign within 7 days
+2129,Champions,350,3,8000,7244.81,4,5,5,455,0,Search,India,Referral program + premium card upsell
+2130,Hibernating,794,1,150,136.08,3,3,2,332,0,Search,Canada,Reactivation email series
+2131,At-Risk,392,2,64,58.14,4,5,1,451,0,Search,India,Win-back campaign within 7 days
+2132,Promising,387,3,970,880.75,4,5,4,454,0,Social,Japan,Cross-sell — travel rewards / premium product
+2133,Hibernating,792,1,1200,1091.52,3,3,4,334,0,Social,UK,Reactivation email series
+2134,Hibernating,789,1,15,13.68,3,3,1,331,0,Offline,UK,Reactivation email series
+2135,At-Risk,257,2,225,205.47,4,5,2,452,0,Social,Canada,Win-back campaign within 7 days
+2136,At-Risk,709,2,285,260.26,3,5,3,353,0,Social,Japan,Win-back campaign within 7 days
+2137,Hibernating,788,1,800,731.52,3,3,4,334,0,Offline,Australia,Reactivation email series
+2138,Hibernating,787,1,175,160.02,3,3,2,332,0,Social,Spain,Reactivation email series
+2139,Champions,786,1,7500,6876.0,3,3,5,335,0,Search,Spain,Referral program + premium card upsell
+2140,Champions,710,2,4400,4049.76,3,5,5,355,0,Social,China,Referral program + premium card upsell
+2141,Hibernating,780,1,150,138.6,3,3,2,332,0,Social,India,Reactivation email series
+2142,Hibernating,779,1,54,49.9,3,3,1,331,0,Social,Canada,Reactivation email series
+2143,Champions,400,2,6120,5662.22,4,5,5,455,0,Social,Australia,Referral program + premium card upsell
+2144,Champions,538,2,9090,8420.98,4,5,5,455,0,Other,Australia,Referral program + premium card upsell
+2145,At-Risk,667,2,1240,1148.74,3,5,4,354,0,Search,Italy,Win-back campaign within 7 days
+2146,Hibernating,777,1,16,14.82,3,3,1,331,0,Social,Spain,Reactivation email series
+2147,Promising,458,3,191,177.41,4,5,2,452,0,Social,USA,Cross-sell — travel rewards / premium product
+2148,At-Risk,604,2,3608,3351.11,3,5,5,355,0,Search,USA,Win-back campaign within 7 days
+2149,At-Risk,249,2,672,624.96,4,5,4,454,0,Social,India,Win-back campaign within 7 days
+2150,Promising,120,3,410,381.47,5,5,3,553,0,Other,China,Cross-sell — travel rewards / premium product
+2151,Hibernating,773,1,75,69.84,3,3,1,331,0,Other,Australia,Reactivation email series
+2152,Champions,398,2,6080,5676.29,4,5,5,455,0,Search,Canada,Referral program + premium card upsell
+2153,Champions,75,2,6180,5777.06,5,5,5,555,0,Social,Japan,Referral program + premium card upsell
+2154,Hibernating,769,1,800,748.8,3,3,4,334,0,Social,China,Reactivation email series
+2155,Hibernating,767,1,140,131.38,3,3,2,332,0,Social,China,Reactivation email series
+2156,Promising,226,3,530,498.21,5,5,4,554,0,Other,India,Cross-sell — travel rewards / premium product
+2157,Promising,247,3,3300,3102.0,4,5,5,455,0,Offline,Italy,Cross-sell — travel rewards / premium product
+2158,Hibernating,766,1,3000,2822.4,3,3,5,335,0,Social,Japan,Reactivation email series
+2159,Promising,422,3,860,809.1,4,5,4,454,0,Search,India,Cross-sell — travel rewards / premium product
+2160,At-Risk,572,2,300,282.24,3,5,3,353,0,Social,Australia,Win-back campaign within 7 days
+2161,Hibernating,763,1,400,377.28,3,3,3,333,0,Offline,USA,Reactivation email series
+2162,Champions,96,3,6840,6456.96,5,5,5,555,0,Social,China,Referral program + premium card upsell
+2163,Champions,696,2,12000,11332.8,3,5,5,355,0,Search,Australia,Referral program + premium card upsell
+2164,Hibernating,761,1,320,302.59,3,3,3,333,0,Social,Japan,Reactivation email series
+2165,Hibernating,760,1,90,85.32,3,3,1,331,0,Social,Italy,Reactivation email series
+2166,Champions,605,2,5040,4771.87,3,5,5,355,0,Social,Canada,Referral program + premium card upsell
+2167,At-Risk,19,2,350,332.22,5,5,3,553,0,Offline,Australia,Win-back campaign within 7 days
+2168,Hibernating,759,1,15,14.22,3,3,1,331,0,Social,USA,Reactivation email series
+2169,Champions,422,2,7208,6841.83,4,5,5,455,0,Social,Italy,Referral program + premium card upsell
+2170,Hibernating,757,1,350,332.64,3,3,3,333,0,Other,Australia,Reactivation email series
+2171,Hibernating,757,1,100,95.04,3,3,2,332,0,Other,Australia,Reactivation email series
+2172,Hibernating,757,1,105,99.79,3,3,2,332,0,Offline,USA,Reactivation email series
+2173,At-Risk,453,2,2800,2671.2,4,5,5,455,0,Other,Italy,Win-back campaign within 7 days
+2174,Hibernating,754,1,70,66.86,3,3,1,331,0,Other,Canada,Reactivation email series
+2175,At-Risk,258,2,1560,1493.86,4,5,4,454,0,Offline,Australia,Win-back campaign within 7 days
+2176,At-Risk,277,2,3050,2920.68,4,5,5,455,0,Social,Spain,Win-back campaign within 7 days
+2177,At-Risk,23,2,1550,1484.28,5,5,4,554,0,Search,Australia,Win-back campaign within 7 days
+2178,Promising,659,3,2620,2511.0,3,5,5,355,0,Social,USA,Cross-sell — travel rewards / premium product
+2179,Champions,143,3,6500,6229.61,5,5,5,555,0,Social,Japan,Referral program + premium card upsell
+2180,Promising,232,3,220,211.72,5,5,2,552,0,Search,USA,Cross-sell — travel rewards / premium product
+2181,At-Risk,241,2,325,313.17,4,5,3,453,0,Social,Australia,Win-back campaign within 7 days
+2182,Promising,292,3,264,254.71,4,5,3,453,0,Social,Australia,Cross-sell — travel rewards / premium product
+2183,Champions,718,2,6100,5885.28,3,5,5,355,0,Search,Australia,Referral program + premium card upsell
+2184,Hibernating,746,1,300,289.44,3,3,3,333,0,Social,India,Reactivation email series
+2185,Hibernating,745,1,35,33.85,3,3,1,331,0,Search,UK,Reactivation email series
+2186,Hibernating,744,1,80,77.38,3,3,1,331,0,Other,India,Reactivation email series
+2187,At-Risk,480,2,3800,3684.48,4,5,5,455,0,Other,China,Win-back campaign within 7 days
+2188,Hibernating,742,1,16,15.51,3,3,1,331,0,Social,UK,Reactivation email series
+2189,At-Risk,35,2,160,155.52,5,5,2,552,0,Offline,Canada,Win-back campaign within 7 days
+2190,Hibernating,740,1,2000,1944.0,3,3,4,334,0,Search,India,Reactivation email series
+2191,Hibernating,739,1,150,146.16,3,3,2,332,0,Social,China,Reactivation email series
+2192,Promising,190,3,332,324.04,5,5,3,553,0,Offline,China,Cross-sell — travel rewards / premium product
+2193,Champions,687,2,9500,9279.6,3,5,5,355,0,Social,India,Referral program + premium card upsell
+2194,Hibernating,737,1,3000,2930.4,3,3,5,335,0,Search,India,Reactivation email series
+2195,Hibernating,737,1,2500,2442.0,3,3,5,335,0,Search,Spain,Reactivation email series
+2196,At-Risk,473,2,1675,1640.16,4,5,4,454,0,Social,China,Win-back campaign within 7 days
+2197,Promising,9,4,405,397.79,5,5,3,553,0,Offline,Canada,Cross-sell — travel rewards / premium product
+2198,At-Risk,128,2,250,246.0,5,5,3,553,0,Social,China,Win-back campaign within 7 days
+2199,Hibernating,731,1,50,49.2,3,3,1,331,0,Social,China,Reactivation email series
+2200,At-Risk,115,2,175,172.41,5,5,2,552,0,Social,Australia,Win-back campaign within 7 days

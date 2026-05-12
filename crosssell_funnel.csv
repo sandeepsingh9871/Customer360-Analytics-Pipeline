@@ -1,0 +1,6 @@
+stage,customers,stage_order,avg_cltv
+Total base,1197,1,793.05
+Active (no churn),718,2,1094.08
+High CLTV (top 35%),479,3,1823.48
+Promising segment,148,4,760.39
+Champions only,112,5,4381.86

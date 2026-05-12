@@ -1,0 +1,6 @@
+segment,customer_count,avg_recency_days,avg_frequency,avg_monetary,total_revenue,avg_cltv,total_cltv,churn_risk_customers,cltv_at_risk,avg_credit_score,avg_engagement,avg_r_score,avg_f_score,avg_m_score,crm_action,revenue_share_pct
+At-Risk,351,353.14,2.0,857.5,300982,523.15,183625.8,0,0.0,688.12,34.63,4.11,3.88,3.29,Win-back campaign within 7 days,19.78
+Lost,280,1540.84,1.0,400.14,112040,187.37,52464.7,280,52464.7,690.61,31.03,1.16,1.17,2.15,Suppress — flag for quarterly review,7.36
+Promising,148,238.53,3.18,1219.76,180524,760.39,112538.28,0,0.0,686.8,39.87,4.52,5.0,3.82,Cross-sell — travel rewards / premium product,11.87
+Champions,112,489.9,2.13,6919.95,775034,4381.86,490768.72,12,48320.64,692.24,35.41,3.77,3.86,5.0,Referral program + premium card upsell,50.94
+Hibernating,306,1026.66,1.0,499.32,152791,359.11,109887.67,187,62953.22,696.19,31.85,2.39,2.39,2.32,Reactivation email series,10.04
