@@ -16,7 +16,7 @@
 
 ## Live Dashboard
 
-> 📊 **[View on Tableau Public → add your link here(Error occured. Will upload soon)(Uploaded Tableau File]**
+> 📊 **[View on Tableau Public → [add your link here](https://public.tableau.com/views/Customer360AnalyticsDashboard_17785659253420/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]**
 
 [Dashboard Preview](<img width="1307" height="972" alt="{7714A801-84EC-4881-BD37-36EFC9E2C254}" src="https://github.com/user-attachments/assets/c2457bb6-ebff-490b-9a46-f483b38fe27f" />)
 
